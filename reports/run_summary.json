@@ -1,0 +1,73 @@
+{
+  "generated_at": "2026-11-09T03:46:33+00:00",
+  "warehouse": "sqlite",
+  "last_run": {
+    "run_id": "20261109T034628943",
+    "status": "SUCCESS",
+    "duration_s": 0.48
+  },
+  "last_full_run": {
+    "run_id": "20261109T034352338",
+    "duration_s": 152.47,
+    "files": 2448,
+    "rows_read": 2047269
+  },
+  "rows_read": 2047269,
+  "rows_loaded": 2021800,
+  "rows_rejected": 25469,
+  "reject_pct": 1.244,
+  "rejects_by_reason": {
+    "MISSING_REQUIRED_FIELD": 6095,
+    "DUPLICATE_ROW": 4943,
+    "UNKNOWN_PRODUCT": 4153,
+    "UNKNOWN_STORE": 3751,
+    "INVALID_QUANTITY": 2472,
+    "INVALID_PRICE": 1633,
+    "AMOUNT_MISMATCH": 1612,
+    "INVALID_DATE": 810
+  },
+  "file_status": {
+    "LOADED": 2364,
+    "SKIPPED_DUPLICATE/DUPLICATE_FILE": 72,
+    "QUARANTINED/UNKNOWN_STORE_FILE": 6,
+    "SUPERSEDED": 3,
+    "EMPTY/EMPTY_FILE": 2,
+    "FAILED/ZERO_BYTE_FILE": 1
+  },
+  "reconciliation": {
+    "partitions": 2364,
+    "partitions_within_tolerance": 2364,
+    "pct_within_tolerance": 100.0,
+    "max_variance_pct": 0.0,
+    "tolerance_pct": 0.5,
+    "source_net_total": 39620192.18,
+    "rejected_net_total": 421145.17,
+    "warehouse_net_total": 39199047.01,
+    "partitions_within_tolerance_raw_basis": 776
+  },
+  "alerts": [
+    {
+      "store_code": "GGN006",
+      "first_date": "2026-09-18",
+      "last_date": "2026-09-19",
+      "consecutive_days": 2
+    },
+    {
+      "store_code": "GGN015",
+      "first_date": "2026-10-21",
+      "last_date": "2026-10-22",
+      "consecutive_days": 2
+    },
+    {
+      "store_code": "GGN023",
+      "first_date": "2026-09-23",
+      "last_date": "2026-09-25",
+      "consecutive_days": 3
+    }
+  ],
+  "success_criteria": {
+    "reconciliation_within_0_5_pct": true,
+    "reject_rate_below_2_pct": true,
+    "run_under_10_minutes": true
+  }
+}
