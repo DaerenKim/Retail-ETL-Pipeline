@@ -1,0 +1,16 @@
+name: retail_analytics
+version: "1.0.0"
+config-version: 2
+profile: retail_analytics
+
+model-paths: ["models"]
+test-paths: ["tests"]
+target-path: "target"
+clean-targets: ["target", "dbt_packages", "logs"]
+
+models:
+  retail_analytics:
+    staging:
+      +materialized: view
+    marts:
+      +materialized: table

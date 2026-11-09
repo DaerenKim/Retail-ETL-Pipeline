@@ -1,0 +1,4 @@
+# Optional analytics layer (dbt models on the Parquet silver layer) and dashboard
+dbt-core==1.12.6
+dbt-duckdb==1.11.1
+streamlit==1.67.0
