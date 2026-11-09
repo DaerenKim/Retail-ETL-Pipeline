@@ -1,0 +1,41 @@
+store_code,store_name,locality,zone,city,state,format,pos_system,open_date,sqft,is_active
+GGN001,Aangan Retail Express - DLF Phase 1,DLF Phase 1,North,Gurgaon,Haryana,Express,CloudPOS,2022-12-08,2000,Y
+GGN002,Aangan Retail Hypermarket - DLF Phase 2,DLF Phase 2,North,Gurgaon,Haryana,Hypermarket,CloudPOS,2021-07-09,39500,Y
+GGN003,Aangan Retail Express - DLF Phase 3,DLF Phase 3,North,Gurgaon,Haryana,Express,CloudPOS,2024-12-18,2000,Y
+GGN004,Aangan Retail Supermarket - DLF Phase 4,DLF Phase 4,Central,Gurgaon,Haryana,Supermarket,LegacyPOS,2024-06-27,14000,Y
+GGN005,Aangan Retail Supermarket - DLF Phase 5,DLF Phase 5,Central,Gurgaon,Haryana,Supermarket,POS-v3,2014-04-27,8000,Y
+GGN006,Aangan Retail Supermarket - MG Road,MG Road,North,Gurgaon,Haryana,Supermarket,CloudPOS,2019-07-09,8500,Y
+GGN007,Aangan Retail Supermarket - Sector 14,Sector 14,West,Gurgaon,Haryana,Supermarket,POS-v3,2017-10-23,10500,Y
+GGN008,Aangan Retail Express - Sector 15,Sector 15,West,Gurgaon,Haryana,Express,LegacyPOS,2017-11-16,3000,Y
+GGN009,Aangan Retail Hypermarket - Sector 17,Sector 17,West,Gurgaon,Haryana,Hypermarket,POS-v3,2024-08-05,29000,Y
+GGN010,Aangan Retail Supermarket - Sector 23,Sector 23,West,Gurgaon,Haryana,Supermarket,POS-v3,2016-04-24,12000,Y
+GGN011,Aangan Retail Supermarket - Sector 29,Sector 29,Central,Gurgaon,Haryana,Supermarket,POS-v3,2022-05-24,12500,Y
+GGN012,Aangan Retail Supermarket - Sector 31,Sector 31,Central,Gurgaon,Haryana,Supermarket,CloudPOS,2020-10-13,10500,Y
+GGN013,Aangan Retail Supermarket - Sector 45,Sector 45,Central,Gurgaon,Haryana,Supermarket,POS-v3,2017-03-17,11500,Y
+GGN014,Aangan Retail Express - Sector 46,Sector 46,Central,Gurgaon,Haryana,Express,LegacyPOS,2015-01-28,1500,Y
+GGN015,Aangan Retail Express - Sector 56,Sector 56,East,Gurgaon,Haryana,Express,POS-v3,2016-11-06,3000,Y
+GGN016,Aangan Retail Supermarket - Sector 57,Sector 57,East,Gurgaon,Haryana,Supermarket,LegacyPOS,2023-02-13,11000,Y
+GGN017,Aangan Retail Supermarket - Golf Course Road,Golf Course Road,East,Gurgaon,Haryana,Supermarket,POS-v3,2023-08-17,10000,Y
+GGN018,Aangan Retail Supermarket - Golf Course Extension,Golf Course Extension,East,Gurgaon,Haryana,Supermarket,POS-v3,2022-01-22,13500,Y
+GGN019,Aangan Retail Express - Sohna Road,Sohna Road,South,Gurgaon,Haryana,Express,POS-v3,2015-11-18,2500,Y
+GGN020,Aangan Retail Supermarket - South City 1,South City 1,Central,Gurgaon,Haryana,Supermarket,POS-v3,2024-06-04,10000,Y
+GGN021,Aangan Retail Supermarket - South City 2,South City 2,South,Gurgaon,Haryana,Supermarket,LegacyPOS,2020-03-15,8000,Y
+GGN022,Aangan Retail Supermarket - Sushant Lok 1,Sushant Lok 1,Central,Gurgaon,Haryana,Supermarket,POS-v3,2025-12-09,12000,Y
+GGN023,Aangan Retail Supermarket - Nirvana Country,Nirvana Country,South,Gurgaon,Haryana,Supermarket,POS-v3,2016-09-04,14500,Y
+GGN024,Aangan Retail Supermarket - Palam Vihar,Palam Vihar,West,Gurgaon,Haryana,Supermarket,LegacyPOS,2024-05-27,13000,Y
+GGN025,Aangan Retail Express - Udyog Vihar,Udyog Vihar,North,Gurgaon,Haryana,Express,POS-v3,2022-10-07,2000,Y
+GGN026,Aangan Retail Express - Cyber City,Cyber City,North,Gurgaon,Haryana,Express,CloudPOS,2019-03-18,1500,Y
+GGN027,Aangan Retail Supermarket - Sector 82,Sector 82,South,Gurgaon,Haryana,Supermarket,POS-v3,2023-06-16,8000,Y
+GGN028,Aangan Retail Supermarket - Sector 83,Sector 83,South,Gurgaon,Haryana,Supermarket,POS-v3,2015-06-27,14000,Y
+GGN029,Aangan Retail Hypermarket - New Gurgaon,New Gurgaon,South,Gurgaon,Haryana,Hypermarket,POS-v3,2018-04-02,28500,Y
+GGN030,Aangan Retail Hypermarket - Manesar,Manesar,South,Gurgaon,Haryana,Hypermarket,LegacyPOS,2023-02-03,36500,Y
+GGN031,Aangan Retail Supermarket - Sector 49,Sector 49,East,Gurgaon,Haryana,Supermarket,POS-v3,2021-02-25,12000,Y
+GGN032,Aangan Retail Supermarket - Sector 50,Sector 50,East,Gurgaon,Haryana,Supermarket,LegacyPOS,2016-03-22,11500,Y
+GGN033,Aangan Retail Hypermarket - Sector 67,Sector 67,East,Gurgaon,Haryana,Hypermarket,POS-v3,2022-03-09,33000,Y
+GGN034,Aangan Retail Hypermarket - Sector 70,Sector 70,South,Gurgaon,Haryana,Hypermarket,LegacyPOS,2023-07-07,39500,Y
+GGN035,Aangan Retail Express - Sector 4,Sector 4,West,Gurgaon,Haryana,Express,POS-v3,2022-12-23,2000,Y
+GGN036,Aangan Retail Express - Sector 9,Sector 9,West,Gurgaon,Haryana,Express,POS-v3,2025-05-13,2500,Y
+GGN037,Aangan Retail Express - Sector 10A,Sector 10A,West,Gurgaon,Haryana,Express,LegacyPOS,2021-09-15,1500,Y
+GGN038,Aangan Retail Express - Ardee City,Ardee City,Central,Gurgaon,Haryana,Express,POS-v3,2017-04-03,2500,Y
+GGN039,Aangan Retail Hypermarket - Malibu Towne,Malibu Towne,Central,Gurgaon,Haryana,Hypermarket,POS-v3,2014-10-18,28500,Y
+GGN040,Aangan Retail Hypermarket - Badshahpur,Badshahpur,South,Gurgaon,Haryana,Hypermarket,POS-v3,2023-04-01,26000,Y
