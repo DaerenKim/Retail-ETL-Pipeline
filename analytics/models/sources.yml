@@ -1,0 +1,19 @@
+version: 2
+
+# Inputs produced by the ETL pipeline (paths are relative to the repository root).
+sources:
+  - name: silver
+    description: Validated, de-duplicated sales lines written by the ETL as Parquet (hive partitioned).
+    tables:
+      - name: sales
+        meta:
+          external_location: "read_parquet('{{ env_var('RETAIL_DATA_DIR', 'data') }}/silver/sales/*/*/*.parquet', hive_partitioning = true)"
+  - name: master
+    description: Store and product master data.
+    tables:
+      - name: stores
+        meta:
+          external_location: "read_csv('{{ env_var('RETAIL_DATA_DIR', 'data') }}/master/stores.csv', header = true)"
+      - name: products
+        meta:
+          external_location: "read_csv('{{ env_var('RETAIL_DATA_DIR', 'data') }}/master/products.csv', header = true)"

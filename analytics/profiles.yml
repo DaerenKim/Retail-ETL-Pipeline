@@ -1,0 +1,9 @@
+# dbt connection profile. Run dbt from the repository root:
+#   dbt build --project-dir analytics --profiles-dir analytics
+retail_analytics:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: "{{ env_var('RETAIL_ANALYTICS_DB', 'warehouse/analytics.duckdb') }}"
+      threads: 4
