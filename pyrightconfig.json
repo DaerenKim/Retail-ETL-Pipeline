@@ -1,0 +1,6 @@
+{
+  "venvPath": ".",
+  "venv": ".venv",
+  "include": ["etl", "tests", "generator", "dashboard"],
+  "typeCheckingMode": "basic"
+}

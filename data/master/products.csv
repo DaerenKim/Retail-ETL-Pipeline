@@ -1,0 +1,601 @@
+product_code,product_name,category,brand,pack_size,mrp,gst_rate,is_active
+SKU00001,UrbanKart Sona Masoori Rice 500g,Staples,UrbanKart,500g,10.99,5,Y
+SKU00002,HomeHero Paneer 1L,Dairy,HomeHero,1L,4.99,5,Y
+SKU00003,HomeHero Bhujia 400g,Snacks,HomeHero,400g,0.99,12,Y
+SKU00004,Prakriti Ice Cream Tub 200g,Frozen,Prakriti,200g,2.99,18,Y
+SKU00005,Sattva Cauliflower 500g,Fresh Produce,Sattva,500g,1.99,0,Y
+SKU00006,Tara Poha 5kg,Staples,Tara,5kg,1.99,5,Y
+SKU00007,Aangan Select Spinach 250g,Fresh Produce,Aangan Select,250g,0.99,0,Y
+SKU00008,HomeHero Popcorn 100g,Snacks,HomeHero,100g,1.99,12,Y
+SKU00009,DailyBasket Face Wash 75ml,Personal Care,DailyBasket,75ml,3.99,18,Y
+SKU00010,FreshNest Baby Diapers Small,Baby Care,FreshNest,Small,37.99,12,Y
+SKU00011,Kisaan Gold Instant Noodles 400g,Snacks,Kisaan Gold,400g,1.99,12,Y
+SKU00012,Desi Harvest Tomato 500g,Fresh Produce,Desi Harvest,500g,0.99,0,Y
+SKU00013,Aarohi Ginger 500g,Fresh Produce,Aarohi,500g,1.99,0,Y
+SKU00014,Tara Infant Cereal Medium,Baby Care,Tara,Medium,6.99,12,Y
+SKU00015,Desi Harvest Roasted Peanuts 50g,Snacks,Desi Harvest,50g,2.99,12,Y
+SKU00016,Desi Harvest Mustard Oil 1kg,Staples,Desi Harvest,1kg,3.99,5,Y
+SKU00017,Kisaan Gold Baby Diapers Small,Baby Care,Kisaan Gold,Small,28.99,12,Y
+SKU00018,Nimbu Full Cream Milk 500ml,Dairy,Nimbu,500ml,2.99,5,Y
+SKU00019,UrbanKart Plastic Bucket Set of 6,Home & Kitchen,UrbanKart,Set of 6,3.99,18,Y
+SKU00020,Prakriti Buttermilk 1L,Dairy,Prakriti,1L,8.99,5,Y
+SKU00021,Tara Cookies 100g,Snacks,Tara,100g,0.99,12,Y
+SKU00022,Tara Mango Drink 2L,Beverages,Tara,2L,1.99,12,Y
+SKU00023,Desi Harvest Lassi 500g,Dairy,Desi Harvest,500g,9.99,5,Y
+SKU00024,FreshNest Buttermilk 500ml,Dairy,FreshNest,500ml,2.99,5,Y
+SKU00025,Sattva Masala Tea 500ml,Beverages,Sattva,500ml,1.99,12,Y
+SKU00026,DailyBasket Mineral Water 250g,Beverages,DailyBasket,250g,1.99,12,Y
+SKU00027,Desi Harvest Baby Soap Large,Baby Care,Desi Harvest,Large,34.99,12,Y
+SKU00028,Kisaan Gold Butter 200ml,Dairy,Kisaan Gold,200ml,7.99,5,Y
+SKU00029,Kisaan Gold Baby Lotion Large,Baby Care,Kisaan Gold,Large,16.99,12,Y
+SKU00030,UrbanKart Tissue Roll 1kg,Household,UrbanKart,1kg,5.99,18,Y
+SKU00031,Desi Harvest Soap Bar 400ml,Personal Care,Desi Harvest,400ml,8.99,18,Y
+SKU00032,Desi Harvest Chana Dal 500g,Staples,Desi Harvest,500g,5.99,5,Y
+SKU00033,Kisaan Gold Hand Wash Pack of 4,Personal Care,Kisaan Gold,Pack of 4,6.99,18,Y
+SKU00034,Desi Harvest Baby Diapers Small,Baby Care,Desi Harvest,Small,35.99,12,Y
+SKU00035,HomeHero Green Tea 1L,Beverages,HomeHero,1L,2.99,12,Y
+SKU00036,Prakriti Instant Coffee 250ml,Beverages,Prakriti,250ml,1.99,12,Y
+SKU00037,Sattva Toor Dal 5kg,Staples,Sattva,5kg,1.99,5,Y
+SKU00038,Sattva Buttermilk 200g,Dairy,Sattva,200g,9.99,5,Y
+SKU00039,UrbanKart Instant Coffee 500ml,Beverages,UrbanKart,500ml,5.99,12,Y
+SKU00040,Kisaan Gold Besan 1kg,Staples,Kisaan Gold,1kg,8.99,5,Y
+SKU00041,Tara Banana 500g,Fresh Produce,Tara,500g,0.99,0,Y
+SKU00042,Prakriti Toned Milk 200g,Dairy,Prakriti,200g,1.99,5,Y
+SKU00043,Sattva Frozen Paratha 400g,Frozen,Sattva,400g,2.99,18,Y
+SKU00044,Prakriti Cookies 200g,Snacks,Prakriti,200g,3.99,12,Y
+SKU00045,Sattva Deodorant Pack of 4,Personal Care,Sattva,Pack of 4,3.99,18,Y
+SKU00046,FreshNest Moong Dal 500g,Staples,FreshNest,500g,4.99,5,Y
+SKU00047,Desi Harvest Soap Bar Pack of 4,Personal Care,Desi Harvest,Pack of 4,3.99,18,Y
+SKU00048,Prakriti Garbage Bags Pack of 6,Household,Prakriti,Pack of 6,2.99,18,Y
+SKU00049,UrbanKart Non-stick Tawa 1pc,Home & Kitchen,UrbanKart,1pc,68.99,18,Y
+SKU00050,HomeHero Sunflower Oil 5kg,Staples,HomeHero,5kg,6.99,5,Y
+SKU00051,Sattva Instant Noodles 50g,Snacks,Sattva,50g,4.99,12,Y
+SKU00052,Nimbu Floor Cleaner 500ml,Household,Nimbu,500ml,8.99,18,Y
+SKU00053,HomeHero Body Lotion 400ml,Personal Care,HomeHero,400ml,3.99,18,Y
+SKU00054,HomeHero Toothpaste 100ml,Personal Care,HomeHero,100ml,3.99,18,Y
+SKU00055,Tara Tomato 1kg,Fresh Produce,Tara,1kg,1.99,0,Y
+SKU00056,HomeHero Onion 500g,Fresh Produce,HomeHero,500g,0.99,0,Y
+SKU00057,Nimbu Lemon 1kg,Fresh Produce,Nimbu,1kg,0.99,0,Y
+SKU00058,DailyBasket Frozen Corn 400g,Frozen,DailyBasket,400g,4.99,18,Y
+SKU00059,Tara Masala Tea 1L,Beverages,Tara,1L,2.99,12,Y
+SKU00060,Sattva Steel Tumbler 1pc,Home & Kitchen,Sattva,1pc,58.99,18,Y
+SKU00061,UrbanKart Bhujia 50g,Snacks,UrbanKart,50g,0.99,12,Y
+SKU00062,Nimbu Frozen Peas 1L,Frozen,Nimbu,1L,3.99,18,Y
+SKU00063,UrbanKart Kitchen Towel Set of 6,Home & Kitchen,UrbanKart,Set of 6,16.99,18,Y
+SKU00064,UrbanKart Tomato 1kg,Fresh Produce,UrbanKart,1kg,2.99,0,Y
+SKU00065,Prakriti Paneer 500ml,Dairy,Prakriti,500ml,6.99,5,Y
+SKU00066,DailyBasket Baby Diapers Medium,Baby Care,DailyBasket,Medium,33.99,12,Y
+SKU00067,DailyBasket Curd 200g,Dairy,DailyBasket,200g,4.99,5,Y
+SKU00068,Nimbu Baby Lotion Pack of 2,Baby Care,Nimbu,Pack of 2,16.99,12,Y
+SKU00069,Prakriti Baby Soap Pack of 2,Baby Care,Prakriti,Pack of 2,31.99,12,Y
+SKU00070,DailyBasket Frozen Paratha 400g,Frozen,DailyBasket,400g,7.99,18,Y
+SKU00071,HomeHero Hand Wash 100ml,Personal Care,HomeHero,100ml,2.99,18,Y
+SKU00072,Aangan Select Butter 500ml,Dairy,Aangan Select,500ml,1.99,5,Y
+SKU00073,HomeHero Detergent Powder 1L,Household,HomeHero,1L,2.99,18,Y
+SKU00074,Aangan Select Tomato 1kg,Fresh Produce,Aangan Select,1kg,0.99,0,Y
+SKU00075,Prakriti Spinach 1kg,Fresh Produce,Prakriti,1kg,1.99,0,Y
+SKU00076,UrbanKart Sugar 1kg,Staples,UrbanKart,1kg,11.99,5,Y
+SKU00077,Aangan Select Steel Tumbler Set of 6,Home & Kitchen,Aangan Select,Set of 6,16.99,18,Y
+SKU00078,Sattva Moong Dal 1kg,Staples,Sattva,1kg,10.99,5,Y
+SKU00079,HomeHero Green Chilli 1kg,Fresh Produce,HomeHero,1kg,3.99,0,Y
+SKU00080,UrbanKart Frozen Paratha 1L,Frozen,UrbanKart,1L,4.99,18,Y
+SKU00081,Sattva Cauliflower 1kg,Fresh Produce,Sattva,1kg,0.99,0,Y
+SKU00082,Kisaan Gold French Fries 200g,Frozen,Kisaan Gold,200g,8.99,18,Y
+SKU00083,Nimbu Kitchen Towel 1pc,Home & Kitchen,Nimbu,1pc,4.99,18,Y
+SKU00084,Kisaan Gold Ginger 250g,Fresh Produce,Kisaan Gold,250g,0.99,0,Y
+SKU00085,Sattva Banana 500g,Fresh Produce,Sattva,500g,0.99,0,Y
+SKU00086,Aarohi Cauliflower 500g,Fresh Produce,Aarohi,500g,3.99,0,Y
+SKU00087,Desi Harvest Frozen Corn 200g,Frozen,Desi Harvest,200g,9.99,18,Y
+SKU00088,UrbanKart Tissue Roll 500ml,Household,UrbanKart,500ml,9.99,18,Y
+SKU00089,Desi Harvest Toor Dal 500g,Staples,Desi Harvest,500g,9.99,5,Y
+SKU00090,Kisaan Gold Storage Container 1pc,Home & Kitchen,Kisaan Gold,1pc,24.99,18,Y
+SKU00091,Nimbu Paneer 200g,Dairy,Nimbu,200g,4.99,5,Y
+SKU00092,Kisaan Gold Garbage Bags Pack of 6,Household,Kisaan Gold,Pack of 6,13.99,18,Y
+SKU00093,Desi Harvest Non-stick Tawa Set of 6,Home & Kitchen,Desi Harvest,Set of 6,59.99,18,Y
+SKU00094,Prakriti Banana 250g,Fresh Produce,Prakriti,250g,1.99,0,Y
+SKU00095,FreshNest Marie Biscuits 50g,Snacks,FreshNest,50g,3.99,12,Y
+SKU00096,Tara Spinach 250g,Fresh Produce,Tara,250g,1.99,0,Y
+SKU00097,Desi Harvest Mosquito Repellent 2kg,Household,Desi Harvest,2kg,10.99,18,Y
+SKU00098,Prakriti Cheese Slices 200g,Dairy,Prakriti,200g,4.99,5,Y
+SKU00099,Kisaan Gold Green Chilli 1kg,Fresh Produce,Kisaan Gold,1kg,0.99,0,Y
+SKU00100,DailyBasket Infant Cereal Pack of 2,Baby Care,DailyBasket,Pack of 2,26.99,12,Y
+SKU00101,Aarohi Non-stick Tawa 1pc,Home & Kitchen,Aarohi,1pc,118.99,18,Y
+SKU00102,Aarohi Lassi 500ml,Dairy,Aarohi,500ml,5.99,5,Y
+SKU00103,Nimbu Kitchen Towel Set of 3,Home & Kitchen,Nimbu,Set of 3,13.99,18,Y
+SKU00104,Sattva Ice Cream Tub 1L,Frozen,Sattva,1L,2.99,18,Y
+SKU00105,Sattva Body Lotion Pack of 4,Personal Care,Sattva,Pack of 4,6.99,18,Y
+SKU00106,HomeHero Shampoo Pack of 4,Personal Care,HomeHero,Pack of 4,11.99,18,Y
+SKU00107,UrbanKart Ghee 200g,Dairy,UrbanKart,200g,3.99,5,Y
+SKU00108,Aangan Select Popcorn 400g,Snacks,Aangan Select,400g,1.99,12,Y
+SKU00109,Aangan Select Banana 500g,Fresh Produce,Aangan Select,500g,2.99,0,Y
+SKU00110,DailyBasket Garbage Bags Pack of 6,Household,DailyBasket,Pack of 6,3.99,18,Y
+SKU00111,Sattva Baby Lotion Pack of 2,Baby Care,Sattva,Pack of 2,7.99,12,Y
+SKU00112,UrbanKart Soap Bar 100ml,Personal Care,UrbanKart,100ml,2.99,18,Y
+SKU00113,Aangan Select Baby Wipes Medium,Baby Care,Aangan Select,Medium,6.99,12,Y
+SKU00114,Aarohi Frozen Corn 500ml,Frozen,Aarohi,500ml,9.99,18,Y
+SKU00115,Aarohi Cream Biscuits 200g,Snacks,Aarohi,200g,0.99,12,Y
+SKU00116,Aangan Select Sunflower Oil 500g,Staples,Aangan Select,500g,2.99,5,Y
+SKU00117,HomeHero Moong Dal 5kg,Staples,HomeHero,5kg,12.99,5,Y
+SKU00118,FreshNest Frozen Peas 500ml,Frozen,FreshNest,500ml,4.99,18,Y
+SKU00119,Sattva Ice Cream Tub 200g,Frozen,Sattva,200g,2.99,18,Y
+SKU00120,FreshNest Frozen Peas 1L,Frozen,FreshNest,1L,4.99,18,Y
+SKU00121,Tara Kitchen Towel 1pc,Home & Kitchen,Tara,1pc,5.99,18,Y
+SKU00122,Aarohi Steel Tumbler 1pc,Home & Kitchen,Aarohi,1pc,5.99,18,Y
+SKU00123,HomeHero Instant Noodles 400g,Snacks,HomeHero,400g,4.99,12,Y
+SKU00124,Nimbu Deodorant 200ml,Personal Care,Nimbu,200ml,5.99,18,Y
+SKU00125,Nimbu Besan 500g,Staples,Nimbu,500g,13.99,5,Y
+SKU00126,Tara Cream Biscuits 200g,Snacks,Tara,200g,2.99,12,Y
+SKU00127,UrbanKart Instant Coffee 100g,Beverages,UrbanKart,100g,0.99,12,Y
+SKU00128,Prakriti Iodised Salt 5kg,Staples,Prakriti,5kg,4.99,5,Y
+SKU00129,Desi Harvest Face Wash 200ml,Personal Care,Desi Harvest,200ml,6.99,18,Y
+SKU00130,FreshNest Frozen Corn 400g,Frozen,FreshNest,400g,8.99,18,Y
+SKU00131,Tara Storage Container Set of 3,Home & Kitchen,Tara,Set of 3,4.99,18,Y
+SKU00132,Tara Bhujia 200g,Snacks,Tara,200g,3.99,12,Y
+SKU00133,Desi Harvest Curd 1L,Dairy,Desi Harvest,1L,3.99,5,Y
+SKU00134,Aarohi LED Bulb 1pc,Home & Kitchen,Aarohi,1pc,23.99,18,Y
+SKU00135,Aangan Select Deodorant 200ml,Personal Care,Aangan Select,200ml,4.99,18,Y
+SKU00136,DailyBasket Frozen Peas 200g,Frozen,DailyBasket,200g,8.99,18,Y
+SKU00137,UrbanKart Toned Milk 1L,Dairy,UrbanKart,1L,3.99,5,Y
+SKU00138,Aarohi Ice Cream Tub 1L,Frozen,Aarohi,1L,5.99,18,Y
+SKU00139,FreshNest Veg Nuggets 500ml,Frozen,FreshNest,500ml,3.99,18,Y
+SKU00140,Tara Detergent Powder 1L,Household,Tara,1L,3.99,18,Y
+SKU00141,Aarohi Frozen Corn 1L,Frozen,Aarohi,1L,7.99,18,Y
+SKU00142,Desi Harvest Infant Cereal Small,Baby Care,Desi Harvest,Small,8.99,12,Y
+SKU00143,FreshNest Mosquito Repellent 2kg,Household,FreshNest,2kg,11.99,18,Y
+SKU00144,Tara Sunflower Oil 1kg,Staples,Tara,1kg,3.99,5,Y
+SKU00145,HomeHero Cookies 400g,Snacks,HomeHero,400g,2.99,12,Y
+SKU00146,UrbanKart Moong Dal 5kg,Staples,UrbanKart,5kg,1.99,5,Y
+SKU00147,DailyBasket Hand Wash 75ml,Personal Care,DailyBasket,75ml,1.99,18,Y
+SKU00148,UrbanKart Kitchen Towel 1pc,Home & Kitchen,UrbanKart,1pc,11.99,18,Y
+SKU00149,HomeHero Sugar 500g,Staples,HomeHero,500g,1.99,5,Y
+SKU00150,DailyBasket Full Cream Milk 500ml,Dairy,DailyBasket,500ml,2.99,5,Y
+SKU00151,DailyBasket Ice Cream Tub 1L,Frozen,DailyBasket,1L,4.99,18,Y
+SKU00152,UrbanKart Lemon 1kg,Fresh Produce,UrbanKart,1kg,2.99,0,Y
+SKU00153,FreshNest Mango Drink 2L,Beverages,FreshNest,2L,1.99,12,Y
+SKU00154,Aarohi Baby Diapers Large,Baby Care,Aarohi,Large,21.99,12,Y
+SKU00155,DailyBasket Mineral Water 2L,Beverages,DailyBasket,2L,1.99,12,Y
+SKU00156,HomeHero Infant Cereal Pack of 2,Baby Care,HomeHero,Pack of 2,34.99,12,Y
+SKU00157,Aangan Select Cream Biscuits 400g,Snacks,Aangan Select,400g,0.99,12,Y
+SKU00158,Desi Harvest Spinach 1kg,Fresh Produce,Desi Harvest,1kg,1.99,0,Y
+SKU00159,Prakriti Tomato 500g,Fresh Produce,Prakriti,500g,4.99,0,Y
+SKU00160,HomeHero Cola 250ml,Beverages,HomeHero,250ml,5.99,12,Y
+SKU00161,FreshNest French Fries 1L,Frozen,FreshNest,1L,2.99,18,Y
+SKU00162,Aarohi Frozen Paratha 1L,Frozen,Aarohi,1L,5.99,18,Y
+SKU00163,Tara Mosquito Repellent Pack of 6,Household,Tara,Pack of 6,4.99,18,Y
+SKU00164,Tara Tissue Roll 2kg,Household,Tara,2kg,11.99,18,Y
+SKU00165,Nimbu Sona Masoori Rice 500g,Staples,Nimbu,500g,5.99,5,Y
+SKU00166,UrbanKart Soap Bar 400ml,Personal Care,UrbanKart,400ml,12.99,18,Y
+SKU00167,DailyBasket Curd 1L,Dairy,DailyBasket,1L,7.99,5,Y
+SKU00168,Sattva Basmati Rice 1kg,Staples,Sattva,1kg,2.99,5,Y
+SKU00169,Kisaan Gold Banana 1kg,Fresh Produce,Kisaan Gold,1kg,1.99,0,Y
+SKU00170,Kisaan Gold Instant Coffee 250ml,Beverages,Kisaan Gold,250ml,3.99,12,Y
+SKU00171,Nimbu Banana 500g,Fresh Produce,Nimbu,500g,3.99,0,Y
+SKU00172,UrbanKart Energy Drink 250g,Beverages,UrbanKart,250g,1.99,12,Y
+SKU00173,Tara Shampoo 400ml,Personal Care,Tara,400ml,10.99,18,Y
+SKU00174,Kisaan Gold Baby Diapers Pack of 2,Baby Care,Kisaan Gold,Pack of 2,35.99,12,Y
+SKU00175,Aarohi Kitchen Towel Set of 3,Home & Kitchen,Aarohi,Set of 3,63.99,18,Y
+SKU00176,FreshNest Ice Cream Tub 1L,Frozen,FreshNest,1L,5.99,18,Y
+SKU00177,Tara Sugar 1kg,Staples,Tara,1kg,1.99,5,Y
+SKU00178,Nimbu Besan 1kg,Staples,Nimbu,1kg,9.99,5,Y
+SKU00179,UrbanKart Hair Oil 100ml,Personal Care,UrbanKart,100ml,5.99,18,Y
+SKU00180,Aarohi Kitchen Towel Set of 6,Home & Kitchen,Aarohi,Set of 6,89.99,18,Y
+SKU00181,Tara Masala Tea 250g,Beverages,Tara,250g,3.99,12,Y
+SKU00182,DailyBasket Shampoo Pack of 4,Personal Care,DailyBasket,Pack of 4,3.99,18,Y
+SKU00183,FreshNest Mango Drink 1L,Beverages,FreshNest,1L,4.99,12,Y
+SKU00184,HomeHero Garbage Bags 1kg,Household,HomeHero,1kg,10.99,18,Y
+SKU00185,DailyBasket Body Lotion 200ml,Personal Care,DailyBasket,200ml,8.99,18,Y
+SKU00186,FreshNest Ice Cream Tub 400g,Frozen,FreshNest,400g,7.99,18,Y
+SKU00187,HomeHero Spinach 250g,Fresh Produce,HomeHero,250g,2.99,0,Y
+SKU00188,Aarohi Sunflower Oil 500g,Staples,Aarohi,500g,3.99,5,Y
+SKU00189,Tara Paneer 200g,Dairy,Tara,200g,0.99,5,Y
+SKU00190,Sattva Baby Soap Medium,Baby Care,Sattva,Medium,17.99,12,Y
+SKU00191,Aangan Select Frozen Paratha 1L,Frozen,Aangan Select,1L,2.99,18,Y
+SKU00192,Desi Harvest Moong Dal 1kg,Staples,Desi Harvest,1kg,1.99,5,Y
+SKU00193,Sattva Frozen Corn 1L,Frozen,Sattva,1L,5.99,18,Y
+SKU00194,Prakriti Masala Tea 2L,Beverages,Prakriti,2L,3.99,12,Y
+SKU00195,Desi Harvest Hair Oil 100ml,Personal Care,Desi Harvest,100ml,3.99,18,Y
+SKU00196,Sattva Namkeen Mix 200g,Snacks,Sattva,200g,1.99,12,Y
+SKU00197,Desi Harvest Toilet Cleaner 1kg,Household,Desi Harvest,1kg,2.99,18,Y
+SKU00198,Desi Harvest Steel Tumbler Set of 3,Home & Kitchen,Desi Harvest,Set of 3,8.99,18,Y
+SKU00199,Nimbu Orange Juice 250ml,Beverages,Nimbu,250ml,5.99,12,Y
+SKU00200,UrbanKart Baby Soap Medium,Baby Care,UrbanKart,Medium,25.99,12,Y
+SKU00201,Sattva Bhujia 50g,Snacks,Sattva,50g,0.99,12,Y
+SKU00202,Kisaan Gold Mineral Water 1L,Beverages,Kisaan Gold,1L,4.99,12,Y
+SKU00203,Tara Toned Milk 500ml,Dairy,Tara,500ml,0.99,5,Y
+SKU00204,Nimbu Cookies 50g,Snacks,Nimbu,50g,0.99,12,Y
+SKU00205,FreshNest Baby Diapers Pack of 2,Baby Care,FreshNest,Pack of 2,11.99,12,Y
+SKU00206,HomeHero Garbage Bags 500ml,Household,HomeHero,500ml,4.99,18,Y
+SKU00207,Nimbu Potato Chips 200g,Snacks,Nimbu,200g,1.99,12,Y
+SKU00208,Desi Harvest Iodised Salt 1kg,Staples,Desi Harvest,1kg,3.99,5,Y
+SKU00209,DailyBasket Lassi 200ml,Dairy,DailyBasket,200ml,7.99,5,Y
+SKU00210,Nimbu Dishwash Liquid 500ml,Household,Nimbu,500ml,2.99,18,Y
+SKU00211,Tara Plastic Bucket Set of 6,Home & Kitchen,Tara,Set of 6,69.99,18,Y
+SKU00212,Nimbu Green Chilli 500g,Fresh Produce,Nimbu,500g,1.99,0,Y
+SKU00213,Prakriti Steel Tumbler Set of 6,Home & Kitchen,Prakriti,Set of 6,4.99,18,Y
+SKU00214,Aangan Select Baby Wipes Pack of 2,Baby Care,Aangan Select,Pack of 2,11.99,12,Y
+SKU00215,Prakriti Cookies 400g,Snacks,Prakriti,400g,1.99,12,Y
+SKU00216,Sattva Ghee 1L,Dairy,Sattva,1L,4.99,5,Y
+SKU00217,Kisaan Gold Tissue Roll 2kg,Household,Kisaan Gold,2kg,2.99,18,Y
+SKU00218,FreshNest Ghee 200ml,Dairy,FreshNest,200ml,5.99,5,Y
+SKU00219,Kisaan Gold Garbage Bags 500ml,Household,Kisaan Gold,500ml,6.99,18,Y
+SKU00220,HomeHero Baby Lotion Small,Baby Care,HomeHero,Small,10.99,12,Y
+SKU00221,Aangan Select Onion 500g,Fresh Produce,Aangan Select,500g,1.99,0,Y
+SKU00222,FreshNest Garbage Bags Pack of 6,Household,FreshNest,Pack of 6,3.99,18,Y
+SKU00223,UrbanKart Frozen Peas 500ml,Frozen,UrbanKart,500ml,7.99,18,Y
+SKU00224,FreshNest Mosquito Repellent 1kg,Household,FreshNest,1kg,6.99,18,Y
+SKU00225,HomeHero Lemon 1kg,Fresh Produce,HomeHero,1kg,2.99,0,Y
+SKU00226,Kisaan Gold Moong Dal 5kg,Staples,Kisaan Gold,5kg,7.99,5,Y
+SKU00227,Sattva Detergent Powder 1L,Household,Sattva,1L,11.99,18,Y
+SKU00228,Tara LED Bulb 1pc,Home & Kitchen,Tara,1pc,5.99,18,Y
+SKU00229,FreshNest Besan 5kg,Staples,FreshNest,5kg,1.99,5,Y
+SKU00230,DailyBasket Spinach 250g,Fresh Produce,DailyBasket,250g,1.99,0,Y
+SKU00231,Nimbu Garbage Bags 500ml,Household,Nimbu,500ml,11.99,18,Y
+SKU00232,Kisaan Gold Green Tea 250g,Beverages,Kisaan Gold,250g,0.99,12,Y
+SKU00233,Tara Veg Nuggets 1L,Frozen,Tara,1L,5.99,18,Y
+SKU00234,Aarohi Banana 1kg,Fresh Produce,Aarohi,1kg,0.99,0,Y
+SKU00235,FreshNest Apple 1kg,Fresh Produce,FreshNest,1kg,2.99,0,Y
+SKU00236,HomeHero Frozen Corn 500ml,Frozen,HomeHero,500ml,2.99,18,Y
+SKU00237,Nimbu Onion 250g,Fresh Produce,Nimbu,250g,0.99,0,Y
+SKU00238,Kisaan Gold Marie Biscuits 200g,Snacks,Kisaan Gold,200g,1.99,12,Y
+SKU00239,DailyBasket Besan 1kg,Staples,DailyBasket,1kg,1.99,5,Y
+SKU00240,HomeHero Banana 1kg,Fresh Produce,HomeHero,1kg,1.99,0,Y
+SKU00241,FreshNest Toilet Cleaner 500ml,Household,FreshNest,500ml,4.99,18,Y
+SKU00242,FreshNest Frozen Paratha 1L,Frozen,FreshNest,1L,5.99,18,Y
+SKU00243,Aarohi Potato 500g,Fresh Produce,Aarohi,500g,0.99,0,Y
+SKU00244,Kisaan Gold Mosquito Repellent Pack of 6,Household,Kisaan Gold,Pack of 6,5.99,18,Y
+SKU00245,Prakriti Roasted Peanuts 400g,Snacks,Prakriti,400g,1.99,12,Y
+SKU00246,Aarohi Spinach 250g,Fresh Produce,Aarohi,250g,0.99,0,Y
+SKU00247,FreshNest Mineral Water 250g,Beverages,FreshNest,250g,0.99,12,Y
+SKU00248,UrbanKart Baby Lotion Large,Baby Care,UrbanKart,Large,21.99,12,Y
+SKU00249,UrbanKart Masala Tea 500ml,Beverages,UrbanKart,500ml,1.99,12,Y
+SKU00250,Nimbu Instant Coffee 250g,Beverages,Nimbu,250g,0.99,12,Y
+SKU00251,DailyBasket French Fries 1L,Frozen,DailyBasket,1L,5.99,18,Y
+SKU00252,Tara Kitchen Towel Set of 6,Home & Kitchen,Tara,Set of 6,12.99,18,Y
+SKU00253,Kisaan Gold Toilet Cleaner 500ml,Household,Kisaan Gold,500ml,5.99,18,Y
+SKU00254,Aarohi Shampoo 200ml,Personal Care,Aarohi,200ml,4.99,18,Y
+SKU00255,Sattva Moong Dal 500g,Staples,Sattva,500g,5.99,5,Y
+SKU00256,Nimbu Buttermilk 200g,Dairy,Nimbu,200g,2.99,5,Y
+SKU00257,Aangan Select Baby Diapers Pack of 2,Baby Care,Aangan Select,Pack of 2,32.99,12,Y
+SKU00258,DailyBasket Plastic Bucket 1pc,Home & Kitchen,DailyBasket,1pc,207.99,18,Y
+SKU00259,FreshNest Frozen Paratha 200g,Frozen,FreshNest,200g,4.99,18,Y
+SKU00260,Desi Harvest Orange Juice 250g,Beverages,Desi Harvest,250g,2.99,12,Y
+SKU00261,HomeHero French Fries 400g,Frozen,HomeHero,400g,3.99,18,Y
+SKU00262,Prakriti Deodorant 200ml,Personal Care,Prakriti,200ml,6.99,18,Y
+SKU00263,Tara Poha 1kg,Staples,Tara,1kg,1.99,5,Y
+SKU00264,HomeHero Ghee 1L,Dairy,HomeHero,1L,1.99,5,Y
+SKU00265,Kisaan Gold Non-stick Tawa 1pc,Home & Kitchen,Kisaan Gold,1pc,39.99,18,Y
+SKU00266,Sattva Mango Drink 250g,Beverages,Sattva,250g,3.99,12,Y
+SKU00267,Kisaan Gold Lemon 1kg,Fresh Produce,Kisaan Gold,1kg,4.99,0,Y
+SKU00268,HomeHero Deodorant 200ml,Personal Care,HomeHero,200ml,8.99,18,Y
+SKU00269,FreshNest Infant Cereal Large,Baby Care,FreshNest,Large,4.99,12,Y
+SKU00270,Kisaan Gold Face Wash 200ml,Personal Care,Kisaan Gold,200ml,11.99,18,Y
+SKU00271,UrbanKart Ice Cream Tub 400g,Frozen,UrbanKart,400g,2.99,18,Y
+SKU00272,FreshNest Shampoo 200ml,Personal Care,FreshNest,200ml,9.99,18,Y
+SKU00273,Kisaan Gold Plastic Bucket Set of 3,Home & Kitchen,Kisaan Gold,Set of 3,5.99,18,Y
+SKU00274,Aangan Select Instant Coffee 250g,Beverages,Aangan Select,250g,2.99,12,Y
+SKU00275,HomeHero Cream Biscuits 200g,Snacks,HomeHero,200g,4.99,12,Y
+SKU00276,Aarohi Veg Nuggets 1L,Frozen,Aarohi,1L,9.99,18,Y
+SKU00277,Nimbu Bhujia 200g,Snacks,Nimbu,200g,0.99,12,Y
+SKU00278,Sattva French Fries 200g,Frozen,Sattva,200g,6.99,18,Y
+SKU00279,FreshNest Baby Lotion Small,Baby Care,FreshNest,Small,23.99,12,Y
+SKU00280,DailyBasket Toothpaste 400ml,Personal Care,DailyBasket,400ml,1.99,18,Y
+SKU00281,DailyBasket Cookies 50g,Snacks,DailyBasket,50g,1.99,12,Y
+SKU00282,FreshNest Spinach 250g,Fresh Produce,FreshNest,250g,0.99,0,Y
+SKU00283,Aangan Select Cheese Slices 500ml,Dairy,Aangan Select,500ml,1.99,5,Y
+SKU00284,Nimbu Frozen Peas 200g,Frozen,Nimbu,200g,2.99,18,Y
+SKU00285,Kisaan Gold Chocolate Bar 400g,Snacks,Kisaan Gold,400g,0.99,12,Y
+SKU00286,UrbanKart Body Lotion 75ml,Personal Care,UrbanKart,75ml,1.99,18,Y
+SKU00287,Tara Lemon 500g,Fresh Produce,Tara,500g,0.99,0,Y
+SKU00288,Nimbu French Fries 200g,Frozen,Nimbu,200g,5.99,18,Y
+SKU00289,Prakriti Shampoo Pack of 4,Personal Care,Prakriti,Pack of 4,3.99,18,Y
+SKU00290,Prakriti Storage Container Set of 6,Home & Kitchen,Prakriti,Set of 6,57.99,18,Y
+SKU00291,Sattva Baby Diapers Small,Baby Care,Sattva,Small,9.99,12,Y
+SKU00292,Desi Harvest Frozen Corn 1L,Frozen,Desi Harvest,1L,9.99,18,Y
+SKU00293,Aangan Select Shampoo 200ml,Personal Care,Aangan Select,200ml,8.99,18,Y
+SKU00294,Aangan Select Non-stick Tawa 1pc,Home & Kitchen,Aangan Select,1pc,3.99,18,Y
+SKU00295,Sattva Baby Wipes Pack of 2,Baby Care,Sattva,Pack of 2,38.99,12,Y
+SKU00296,Tara Ice Cream Tub 400g,Frozen,Tara,400g,2.99,18,Y
+SKU00297,Desi Harvest Frozen Paratha 400g,Frozen,Desi Harvest,400g,2.99,18,Y
+SKU00298,Desi Harvest Cookies 200g,Snacks,Desi Harvest,200g,1.99,12,Y
+SKU00299,DailyBasket Baby Lotion Small,Baby Care,DailyBasket,Small,22.99,12,Y
+SKU00300,Aarohi Cookies 50g,Snacks,Aarohi,50g,3.99,12,Y
+SKU00301,Aarohi Detergent Powder 1kg,Household,Aarohi,1kg,4.99,18,Y
+SKU00302,Aangan Select Ginger 500g,Fresh Produce,Aangan Select,500g,0.99,0,Y
+SKU00303,DailyBasket Energy Drink 1L,Beverages,DailyBasket,1L,6.99,12,Y
+SKU00304,Aarohi Baby Diapers Pack of 2,Baby Care,Aarohi,Pack of 2,4.99,12,Y
+SKU00305,FreshNest Detergent Powder 1kg,Household,FreshNest,1kg,7.99,18,Y
+SKU00306,DailyBasket Deodorant 100ml,Personal Care,DailyBasket,100ml,6.99,18,Y
+SKU00307,DailyBasket Detergent Powder 1kg,Household,DailyBasket,1kg,6.99,18,Y
+SKU00308,Aarohi Onion 250g,Fresh Produce,Aarohi,250g,2.99,0,Y
+SKU00309,Sattva Green Chilli 1kg,Fresh Produce,Sattva,1kg,2.99,0,Y
+SKU00310,Kisaan Gold Mustard Oil 5kg,Staples,Kisaan Gold,5kg,8.99,5,Y
+SKU00311,Kisaan Gold Sona Masoori Rice 500g,Staples,Kisaan Gold,500g,8.99,5,Y
+SKU00312,Sattva Toilet Cleaner Pack of 6,Household,Sattva,Pack of 6,2.99,18,Y
+SKU00313,Tara Energy Drink 1L,Beverages,Tara,1L,1.99,12,Y
+SKU00314,Nimbu Curd 500g,Dairy,Nimbu,500g,2.99,5,Y
+SKU00315,Tara Floor Cleaner 1L,Household,Tara,1L,13.99,18,Y
+SKU00316,Aangan Select Whole Wheat Atta 1kg,Staples,Aangan Select,1kg,4.99,5,Y
+SKU00317,FreshNest Baby Lotion Large,Baby Care,FreshNest,Large,20.99,12,Y
+SKU00318,Nimbu Marie Biscuits 400g,Snacks,Nimbu,400g,0.99,12,Y
+SKU00319,FreshNest Energy Drink 500ml,Beverages,FreshNest,500ml,6.99,12,Y
+SKU00320,FreshNest Frozen Corn 500ml,Frozen,FreshNest,500ml,5.99,18,Y
+SKU00321,HomeHero Buttermilk 1L,Dairy,HomeHero,1L,7.99,5,Y
+SKU00322,Aangan Select Instant Coffee 1L,Beverages,Aangan Select,1L,2.99,12,Y
+SKU00323,UrbanKart Curd 500ml,Dairy,UrbanKart,500ml,5.99,5,Y
+SKU00324,Sattva Sunflower Oil 5kg,Staples,Sattva,5kg,2.99,5,Y
+SKU00325,Kisaan Gold Baby Soap Small,Baby Care,Kisaan Gold,Small,4.99,12,Y
+SKU00326,Aangan Select Ginger 1kg,Fresh Produce,Aangan Select,1kg,1.99,0,Y
+SKU00327,Nimbu Potato 250g,Fresh Produce,Nimbu,250g,4.99,0,Y
+SKU00328,DailyBasket Lassi 500g,Dairy,DailyBasket,500g,1.99,5,Y
+SKU00329,Tara Baby Soap Medium,Baby Care,Tara,Medium,23.99,12,Y
+SKU00330,Prakriti Mineral Water 250ml,Beverages,Prakriti,250ml,5.99,12,Y
+SKU00331,Kisaan Gold Baby Lotion Medium,Baby Care,Kisaan Gold,Medium,5.99,12,Y
+SKU00332,Sattva Chocolate Bar 200g,Snacks,Sattva,200g,3.99,12,Y
+SKU00333,UrbanKart Body Lotion 100ml,Personal Care,UrbanKart,100ml,5.99,18,Y
+SKU00334,HomeHero Steel Tumbler Set of 6,Home & Kitchen,HomeHero,Set of 6,51.99,18,Y
+SKU00335,Nimbu Storage Container 1pc,Home & Kitchen,Nimbu,1pc,55.99,18,Y
+SKU00336,Sattva Plastic Bucket 1pc,Home & Kitchen,Sattva,1pc,115.99,18,Y
+SKU00337,FreshNest Basmati Rice 5kg,Staples,FreshNest,5kg,8.99,5,Y
+SKU00338,Tara Face Wash Pack of 4,Personal Care,Tara,Pack of 4,3.99,18,Y
+SKU00339,DailyBasket Poha 5kg,Staples,DailyBasket,5kg,2.99,5,Y
+SKU00340,DailyBasket Face Wash 400ml,Personal Care,DailyBasket,400ml,2.99,18,Y
+SKU00341,Aangan Select Toned Milk 500ml,Dairy,Aangan Select,500ml,2.99,5,Y
+SKU00342,DailyBasket Ice Cream Tub 500ml,Frozen,DailyBasket,500ml,5.99,18,Y
+SKU00343,Aangan Select Floor Cleaner 1kg,Household,Aangan Select,1kg,14.99,18,Y
+SKU00344,Sattva Mineral Water 100g,Beverages,Sattva,100g,0.99,12,Y
+SKU00345,DailyBasket Namkeen Mix 200g,Snacks,DailyBasket,200g,1.99,12,Y
+SKU00346,FreshNest Green Tea 1L,Beverages,FreshNest,1L,6.99,12,Y
+SKU00347,Prakriti Storage Container 1pc,Home & Kitchen,Prakriti,1pc,109.99,18,Y
+SKU00348,Aarohi Veg Nuggets 200g,Frozen,Aarohi,200g,2.99,18,Y
+SKU00349,HomeHero Ginger 250g,Fresh Produce,HomeHero,250g,0.99,0,Y
+SKU00350,Desi Harvest Detergent Powder 1kg,Household,Desi Harvest,1kg,5.99,18,Y
+SKU00351,Aarohi French Fries 200g,Frozen,Aarohi,200g,7.99,18,Y
+SKU00352,Kisaan Gold Apple 1kg,Fresh Produce,Kisaan Gold,1kg,0.99,0,Y
+SKU00353,Sattva Onion 500g,Fresh Produce,Sattva,500g,0.99,0,Y
+SKU00354,Prakriti Buttermilk 200g,Dairy,Prakriti,200g,5.99,5,Y
+SKU00355,Nimbu Soap Bar 100ml,Personal Care,Nimbu,100ml,12.99,18,Y
+SKU00356,Sattva Spinach 1kg,Fresh Produce,Sattva,1kg,4.99,0,Y
+SKU00357,UrbanKart Mineral Water 2L,Beverages,UrbanKart,2L,2.99,12,Y
+SKU00358,Desi Harvest Whole Wheat Atta 5kg,Staples,Desi Harvest,5kg,2.99,5,Y
+SKU00359,HomeHero Veg Nuggets 400g,Frozen,HomeHero,400g,5.99,18,Y
+SKU00360,Prakriti Mango Drink 100g,Beverages,Prakriti,100g,1.99,12,Y
+SKU00361,HomeHero Infant Cereal Large,Baby Care,HomeHero,Large,11.99,12,Y
+SKU00362,Sattva Chana Dal 5kg,Staples,Sattva,5kg,1.99,5,Y
+SKU00363,Nimbu Apple 1kg,Fresh Produce,Nimbu,1kg,3.99,0,Y
+SKU00364,Nimbu Iodised Salt 1kg,Staples,Nimbu,1kg,13.99,5,Y
+SKU00365,Nimbu Storage Container Set of 6,Home & Kitchen,Nimbu,Set of 6,3.99,18,Y
+SKU00366,Kisaan Gold French Fries 1L,Frozen,Kisaan Gold,1L,2.99,18,Y
+SKU00367,Desi Harvest Popcorn 200g,Snacks,Desi Harvest,200g,1.99,12,Y
+SKU00368,Nimbu Infant Cereal Small,Baby Care,Nimbu,Small,20.99,12,Y
+SKU00369,UrbanKart Baby Soap Large,Baby Care,UrbanKart,Large,39.99,12,Y
+SKU00370,HomeHero Veg Nuggets 500ml,Frozen,HomeHero,500ml,9.99,18,Y
+SKU00371,HomeHero Frozen Paratha 500ml,Frozen,HomeHero,500ml,5.99,18,Y
+SKU00372,Nimbu Hand Wash 100ml,Personal Care,Nimbu,100ml,11.99,18,Y
+SKU00373,HomeHero Body Lotion 100ml,Personal Care,HomeHero,100ml,11.99,18,Y
+SKU00374,Aarohi Face Wash 400ml,Personal Care,Aarohi,400ml,2.99,18,Y
+SKU00375,HomeHero Mosquito Repellent 1kg,Household,HomeHero,1kg,3.99,18,Y
+SKU00376,Tara Plastic Bucket Set of 3,Home & Kitchen,Tara,Set of 3,157.99,18,Y
+SKU00377,Sattva Tomato 500g,Fresh Produce,Sattva,500g,0.99,0,Y
+SKU00378,Sattva Lassi 1L,Dairy,Sattva,1L,5.99,5,Y
+SKU00379,UrbanKart Chocolate Bar 200g,Snacks,UrbanKart,200g,4.99,12,Y
+SKU00380,Kisaan Gold Soap Bar Pack of 4,Personal Care,Kisaan Gold,Pack of 4,7.99,18,Y
+SKU00381,UrbanKart Potato Chips 100g,Snacks,UrbanKart,100g,2.99,12,Y
+SKU00382,FreshNest Sugar 1kg,Staples,FreshNest,1kg,6.99,5,Y
+SKU00383,Tara Curd 200ml,Dairy,Tara,200ml,9.99,5,Y
+SKU00384,Prakriti Energy Drink 2L,Beverages,Prakriti,2L,3.99,12,Y
+SKU00385,Sattva Body Lotion 75ml,Personal Care,Sattva,75ml,10.99,18,Y
+SKU00386,Tara Paneer 500g,Dairy,Tara,500g,5.99,5,Y
+SKU00387,Kisaan Gold Sugar 500g,Staples,Kisaan Gold,500g,12.99,5,Y
+SKU00388,Prakriti Iodised Salt 500g,Staples,Prakriti,500g,12.99,5,Y
+SKU00389,Desi Harvest Shampoo 200ml,Personal Care,Desi Harvest,200ml,5.99,18,Y
+SKU00390,Sattva Butter 200g,Dairy,Sattva,200g,9.99,5,Y
+SKU00391,HomeHero Infant Cereal Medium,Baby Care,HomeHero,Medium,28.99,12,Y
+SKU00392,Aarohi Ice Cream Tub 200g,Frozen,Aarohi,200g,3.99,18,Y
+SKU00393,Tara Frozen Paratha 400g,Frozen,Tara,400g,2.99,18,Y
+SKU00394,Aarohi Garbage Bags 1L,Household,Aarohi,1L,2.99,18,Y
+SKU00395,Prakriti Green Chilli 500g,Fresh Produce,Prakriti,500g,0.99,0,Y
+SKU00396,Kisaan Gold Curd 200g,Dairy,Kisaan Gold,200g,1.99,5,Y
+SKU00397,Desi Harvest Marie Biscuits 400g,Snacks,Desi Harvest,400g,0.99,12,Y
+SKU00398,Aangan Select Dishwash Liquid 500ml,Household,Aangan Select,500ml,7.99,18,Y
+SKU00399,Aangan Select Baby Lotion Small,Baby Care,Aangan Select,Small,17.99,12,Y
+SKU00400,Sattva Face Wash 100ml,Personal Care,Sattva,100ml,11.99,18,Y
+SKU00401,Kisaan Gold Veg Nuggets 500ml,Frozen,Kisaan Gold,500ml,3.99,18,Y
+SKU00402,DailyBasket Baby Soap Medium,Baby Care,DailyBasket,Medium,23.99,12,Y
+SKU00403,FreshNest Plastic Bucket Set of 3,Home & Kitchen,FreshNest,Set of 3,30.99,18,Y
+SKU00404,FreshNest Garbage Bags 500ml,Household,FreshNest,500ml,2.99,18,Y
+SKU00405,HomeHero Baby Wipes Medium,Baby Care,HomeHero,Medium,5.99,12,Y
+SKU00406,DailyBasket Steel Tumbler Set of 6,Home & Kitchen,DailyBasket,Set of 6,21.99,18,Y
+SKU00407,DailyBasket Whole Wheat Atta 5kg,Staples,DailyBasket,5kg,3.99,5,Y
+SKU00408,Desi Harvest Plastic Bucket Set of 3,Home & Kitchen,Desi Harvest,Set of 3,58.99,18,Y
+SKU00409,Aangan Select Shampoo 400ml,Personal Care,Aangan Select,400ml,2.99,18,Y
+SKU00410,Aangan Select Toor Dal 5kg,Staples,Aangan Select,5kg,1.99,5,Y
+SKU00411,Sattva Potato 1kg,Fresh Produce,Sattva,1kg,4.99,0,Y
+SKU00412,DailyBasket Toned Milk 1L,Dairy,DailyBasket,1L,2.99,5,Y
+SKU00413,Tara Lemon Soda 1L,Beverages,Tara,1L,7.99,12,Y
+SKU00414,DailyBasket Cauliflower 500g,Fresh Produce,DailyBasket,500g,0.99,0,Y
+SKU00415,Kisaan Gold Baby Lotion Small,Baby Care,Kisaan Gold,Small,6.99,12,Y
+SKU00416,Prakriti Baby Soap Medium,Baby Care,Prakriti,Medium,21.99,12,Y
+SKU00417,Desi Harvest Potato Chips 200g,Snacks,Desi Harvest,200g,1.99,12,Y
+SKU00418,UrbanKart Popcorn 200g,Snacks,UrbanKart,200g,0.99,12,Y
+SKU00419,Aangan Select Namkeen Mix 50g,Snacks,Aangan Select,50g,3.99,12,Y
+SKU00420,FreshNest Namkeen Mix 50g,Snacks,FreshNest,50g,1.99,12,Y
+SKU00421,UrbanKart Besan 500g,Staples,UrbanKart,500g,2.99,5,Y
+SKU00422,HomeHero Cream Biscuits 50g,Snacks,HomeHero,50g,0.99,12,Y
+SKU00423,UrbanKart Hair Oil Pack of 4,Personal Care,UrbanKart,Pack of 4,5.99,18,Y
+SKU00424,UrbanKart Floor Cleaner 1L,Household,UrbanKart,1L,14.99,18,Y
+SKU00425,UrbanKart Infant Cereal Large,Baby Care,UrbanKart,Large,7.99,12,Y
+SKU00426,Nimbu Baby Wipes Pack of 2,Baby Care,Nimbu,Pack of 2,14.99,12,Y
+SKU00427,Sattva Poha 5kg,Staples,Sattva,5kg,2.99,5,Y
+SKU00428,Sattva Infant Cereal Pack of 2,Baby Care,Sattva,Pack of 2,5.99,12,Y
+SKU00429,Kisaan Gold Green Chilli 500g,Fresh Produce,Kisaan Gold,500g,0.99,0,Y
+SKU00430,Aarohi Bhujia 400g,Snacks,Aarohi,400g,4.99,12,Y
+SKU00431,Prakriti Infant Cereal Medium,Baby Care,Prakriti,Medium,9.99,12,Y
+SKU00432,UrbanKart Hair Oil 75ml,Personal Care,UrbanKart,75ml,10.99,18,Y
+SKU00433,FreshNest Garbage Bags 1L,Household,FreshNest,1L,2.99,18,Y
+SKU00434,Tara Lemon 1kg,Fresh Produce,Tara,1kg,0.99,0,Y
+SKU00435,UrbanKart Buttermilk 500ml,Dairy,UrbanKart,500ml,2.99,5,Y
+SKU00436,Aarohi Detergent Powder 1L,Household,Aarohi,1L,13.99,18,Y
+SKU00437,Aangan Select Lassi 500ml,Dairy,Aangan Select,500ml,4.99,5,Y
+SKU00438,Prakriti Cream Biscuits 200g,Snacks,Prakriti,200g,2.99,12,Y
+SKU00439,DailyBasket Green Chilli 1kg,Fresh Produce,DailyBasket,1kg,0.99,0,Y
+SKU00440,Sattva Hand Wash 400ml,Personal Care,Sattva,400ml,1.99,18,Y
+SKU00441,Sattva Ice Cream Tub 500ml,Frozen,Sattva,500ml,3.99,18,Y
+SKU00442,Nimbu Toor Dal 5kg,Staples,Nimbu,5kg,1.99,5,Y
+SKU00443,UrbanKart Cola 500ml,Beverages,UrbanKart,500ml,1.99,12,Y
+SKU00444,DailyBasket Chocolate Bar 200g,Snacks,DailyBasket,200g,0.99,12,Y
+SKU00445,Aangan Select Frozen Corn 1L,Frozen,Aangan Select,1L,4.99,18,Y
+SKU00446,Kisaan Gold Dishwash Liquid Pack of 6,Household,Kisaan Gold,Pack of 6,5.99,18,Y
+SKU00447,Tara Baby Diapers Small,Baby Care,Tara,Small,27.99,12,Y
+SKU00448,Tara Toned Milk 200ml,Dairy,Tara,200ml,2.99,5,Y
+SKU00449,FreshNest Bhujia 50g,Snacks,FreshNest,50g,0.99,12,Y
+SKU00450,Sattva Frozen Peas 1L,Frozen,Sattva,1L,5.99,18,Y
+SKU00451,Desi Harvest Sunflower Oil 5kg,Staples,Desi Harvest,5kg,3.99,5,Y
+SKU00452,HomeHero Besan 1kg,Staples,HomeHero,1kg,4.99,5,Y
+SKU00453,Desi Harvest Deodorant 100ml,Personal Care,Desi Harvest,100ml,1.99,18,Y
+SKU00454,HomeHero Curd 500ml,Dairy,HomeHero,500ml,1.99,5,Y
+SKU00455,Aarohi Baby Lotion Large,Baby Care,Aarohi,Large,24.99,12,Y
+SKU00456,Sattva Ghee 200g,Dairy,Sattva,200g,3.99,5,Y
+SKU00457,Aarohi Namkeen Mix 50g,Snacks,Aarohi,50g,0.99,12,Y
+SKU00458,Tara Basmati Rice 5kg,Staples,Tara,5kg,1.99,5,Y
+SKU00459,Prakriti Frozen Corn 500ml,Frozen,Prakriti,500ml,4.99,18,Y
+SKU00460,HomeHero Toned Milk 500ml,Dairy,HomeHero,500ml,1.99,5,Y
+SKU00461,DailyBasket Non-stick Tawa 1pc,Home & Kitchen,DailyBasket,1pc,178.99,18,Y
+SKU00462,HomeHero Shampoo 100ml,Personal Care,HomeHero,100ml,11.99,18,Y
+SKU00463,Desi Harvest Dishwash Liquid Pack of 6,Household,Desi Harvest,Pack of 6,2.99,18,Y
+SKU00464,FreshNest Apple 250g,Fresh Produce,FreshNest,250g,1.99,0,Y
+SKU00465,Prakriti Kitchen Towel Set of 6,Home & Kitchen,Prakriti,Set of 6,12.99,18,Y
+SKU00466,Aangan Select Masala Tea 100g,Beverages,Aangan Select,100g,4.99,12,Y
+SKU00467,Desi Harvest Detergent Powder 2kg,Household,Desi Harvest,2kg,3.99,18,Y
+SKU00468,Tara Moong Dal 1kg,Staples,Tara,1kg,3.99,5,Y
+SKU00469,HomeHero Toilet Cleaner 2kg,Household,HomeHero,2kg,2.99,18,Y
+SKU00470,Aarohi Storage Container Set of 6,Home & Kitchen,Aarohi,Set of 6,4.99,18,Y
+SKU00471,Kisaan Gold Deodorant 100ml,Personal Care,Kisaan Gold,100ml,7.99,18,Y
+SKU00472,Sattva Detergent Powder 500ml,Household,Sattva,500ml,2.99,18,Y
+SKU00473,DailyBasket Hair Oil 200ml,Personal Care,DailyBasket,200ml,1.99,18,Y
+SKU00474,Kisaan Gold Ghee 200g,Dairy,Kisaan Gold,200g,3.99,5,Y
+SKU00475,Prakriti Baby Diapers Small,Baby Care,Prakriti,Small,4.99,12,Y
+SKU00476,FreshNest Baby Soap Large,Baby Care,FreshNest,Large,29.99,12,Y
+SKU00477,Aarohi Sugar 1kg,Staples,Aarohi,1kg,8.99,5,Y
+SKU00478,Kisaan Gold Tomato 500g,Fresh Produce,Kisaan Gold,500g,0.99,0,Y
+SKU00479,Kisaan Gold Frozen Peas 400g,Frozen,Kisaan Gold,400g,4.99,18,Y
+SKU00480,Aarohi Ginger 250g,Fresh Produce,Aarohi,250g,0.99,0,Y
+SKU00481,Aangan Select Popcorn 100g,Snacks,Aangan Select,100g,1.99,12,Y
+SKU00482,Aarohi Green Tea 2L,Beverages,Aarohi,2L,1.99,12,Y
+SKU00483,Prakriti Non-stick Tawa Set of 3,Home & Kitchen,Prakriti,Set of 3,13.99,18,Y
+SKU00484,Kisaan Gold Non-stick Tawa Set of 3,Home & Kitchen,Kisaan Gold,Set of 3,43.99,18,Y
+SKU00485,DailyBasket Cookies 100g,Snacks,DailyBasket,100g,4.99,12,Y
+SKU00486,Aarohi Tissue Roll 2kg,Household,Aarohi,2kg,14.99,18,Y
+SKU00487,Sattva Instant Noodles 200g,Snacks,Sattva,200g,3.99,12,Y
+SKU00488,Nimbu Chocolate Bar 100g,Snacks,Nimbu,100g,2.99,12,Y
+SKU00489,Desi Harvest Infant Cereal Medium,Baby Care,Desi Harvest,Medium,10.99,12,Y
+SKU00490,Aangan Select Soap Bar 400ml,Personal Care,Aangan Select,400ml,6.99,18,Y
+SKU00491,Tara Mango Drink 500ml,Beverages,Tara,500ml,1.99,12,Y
+SKU00492,Aangan Select Lemon Soda 2L,Beverages,Aangan Select,2L,0.99,12,Y
+SKU00493,DailyBasket Plastic Bucket Set of 3,Home & Kitchen,DailyBasket,Set of 3,31.99,18,Y
+SKU00494,Nimbu Baby Diapers Small,Baby Care,Nimbu,Small,23.99,12,Y
+SKU00495,Kisaan Gold Tissue Roll Pack of 6,Household,Kisaan Gold,Pack of 6,2.99,18,Y
+SKU00496,Sattva Cauliflower 250g,Fresh Produce,Sattva,250g,0.99,0,Y
+SKU00497,UrbanKart Face Wash 400ml,Personal Care,UrbanKart,400ml,3.99,18,Y
+SKU00498,Tara French Fries 400g,Frozen,Tara,400g,3.99,18,Y
+SKU00499,DailyBasket Sona Masoori Rice 1kg,Staples,DailyBasket,1kg,3.99,5,Y
+SKU00500,FreshNest Curd 1L,Dairy,FreshNest,1L,1.99,5,Y
+SKU00501,UrbanKart French Fries 1L,Frozen,UrbanKart,1L,3.99,18,Y
+SKU00502,DailyBasket Lassi 1L,Dairy,DailyBasket,1L,0.99,5,Y
+SKU00503,Aangan Select Sona Masoori Rice 500g,Staples,Aangan Select,500g,9.99,5,Y
+SKU00504,Tara Curd 500ml,Dairy,Tara,500ml,2.99,5,Y
+SKU00505,Kisaan Gold Baby Lotion Pack of 2,Baby Care,Kisaan Gold,Pack of 2,36.99,12,Y
+SKU00506,Prakriti Bhujia 100g,Snacks,Prakriti,100g,2.99,12,Y
+SKU00507,Prakriti Onion 1kg,Fresh Produce,Prakriti,1kg,1.99,0,Y
+SKU00508,DailyBasket Roasted Peanuts 400g,Snacks,DailyBasket,400g,1.99,12,Y
+SKU00509,UrbanKart Marie Biscuits 50g,Snacks,UrbanKart,50g,1.99,12,Y
+SKU00510,Prakriti Plastic Bucket Set of 3,Home & Kitchen,Prakriti,Set of 3,40.99,18,Y
+SKU00511,Sattva Mosquito Repellent 2kg,Household,Sattva,2kg,6.99,18,Y
+SKU00512,FreshNest Dishwash Liquid 1kg,Household,FreshNest,1kg,2.99,18,Y
+SKU00513,Aangan Select Dishwash Liquid Pack of 6,Household,Aangan Select,Pack of 6,4.99,18,Y
+SKU00514,Kisaan Gold Ginger 1kg,Fresh Produce,Kisaan Gold,1kg,1.99,0,Y
+SKU00515,HomeHero Instant Coffee 2L,Beverages,HomeHero,2L,1.99,12,Y
+SKU00516,Sattva Energy Drink 100g,Beverages,Sattva,100g,0.99,12,Y
+SKU00517,Desi Harvest Toilet Cleaner 1L,Household,Desi Harvest,1L,2.99,18,Y
+SKU00518,Prakriti Frozen Corn 1L,Frozen,Prakriti,1L,3.99,18,Y
+SKU00519,DailyBasket Ice Cream Tub 200g,Frozen,DailyBasket,200g,4.99,18,Y
+SKU00520,Aarohi Potato Chips 200g,Snacks,Aarohi,200g,0.99,12,Y
+SKU00521,HomeHero French Fries 200g,Frozen,HomeHero,200g,5.99,18,Y
+SKU00522,HomeHero Hair Oil Pack of 4,Personal Care,HomeHero,Pack of 4,8.99,18,Y
+SKU00523,Aangan Select Iodised Salt 5kg,Staples,Aangan Select,5kg,1.99,5,Y
+SKU00524,FreshNest Banana 500g,Fresh Produce,FreshNest,500g,3.99,0,Y
+SKU00525,DailyBasket Moong Dal 1kg,Staples,DailyBasket,1kg,10.99,5,Y
+SKU00526,Aangan Select Roasted Peanuts 200g,Snacks,Aangan Select,200g,3.99,12,Y
+SKU00527,Nimbu Chana Dal 5kg,Staples,Nimbu,5kg,2.99,5,Y
+SKU00528,Nimbu Body Lotion Pack of 4,Personal Care,Nimbu,Pack of 4,12.99,18,Y
+SKU00529,Kisaan Gold Ghee 200ml,Dairy,Kisaan Gold,200ml,9.99,5,Y
+SKU00530,Aangan Select Instant Coffee 500ml,Beverages,Aangan Select,500ml,0.99,12,Y
+SKU00531,UrbanKart Mosquito Repellent 2kg,Household,UrbanKart,2kg,5.99,18,Y
+SKU00532,Tara Non-stick Tawa Set of 6,Home & Kitchen,Tara,Set of 6,18.99,18,Y
+SKU00533,FreshNest Frozen Corn 200g,Frozen,FreshNest,200g,3.99,18,Y
+SKU00534,Aangan Select Hair Oil 400ml,Personal Care,Aangan Select,400ml,11.99,18,Y
+SKU00535,Nimbu Detergent Powder 500ml,Household,Nimbu,500ml,8.99,18,Y
+SKU00536,Tara Frozen Corn 500ml,Frozen,Tara,500ml,7.99,18,Y
+SKU00537,Prakriti Baby Wipes Pack of 2,Baby Care,Prakriti,Pack of 2,26.99,12,Y
+SKU00538,Aarohi Frozen Paratha 500ml,Frozen,Aarohi,500ml,3.99,18,Y
+SKU00539,Tara Mosquito Repellent 500ml,Household,Tara,500ml,2.99,18,Y
+SKU00540,Desi Harvest Frozen Peas 400g,Frozen,Desi Harvest,400g,4.99,18,Y
+SKU00541,Prakriti Toor Dal 5kg,Staples,Prakriti,5kg,11.99,5,Y
+SKU00542,Kisaan Gold Body Lotion 75ml,Personal Care,Kisaan Gold,75ml,6.99,18,Y
+SKU00543,FreshNest Hair Oil 100ml,Personal Care,FreshNest,100ml,1.99,18,Y
+SKU00544,Aangan Select Face Wash 400ml,Personal Care,Aangan Select,400ml,6.99,18,Y
+SKU00545,Desi Harvest Paneer 200g,Dairy,Desi Harvest,200g,0.99,5,Y
+SKU00546,Desi Harvest Frozen Peas 500ml,Frozen,Desi Harvest,500ml,7.99,18,Y
+SKU00547,Aangan Select Tomato 500g,Fresh Produce,Aangan Select,500g,0.99,0,Y
+SKU00548,FreshNest Potato 250g,Fresh Produce,FreshNest,250g,0.99,0,Y
+SKU00549,FreshNest Mineral Water 100g,Beverages,FreshNest,100g,0.99,12,Y
+SKU00550,DailyBasket Cola 250g,Beverages,DailyBasket,250g,1.99,12,Y
+SKU00551,Prakriti Energy Drink 500ml,Beverages,Prakriti,500ml,0.99,12,Y
+SKU00552,Kisaan Gold Full Cream Milk 500g,Dairy,Kisaan Gold,500g,5.99,5,Y
+SKU00553,Prakriti Floor Cleaner 1L,Household,Prakriti,1L,3.99,18,Y
+SKU00554,UrbanKart Buttermilk 500g,Dairy,UrbanKart,500g,3.99,5,Y
+SKU00555,Aarohi Kitchen Towel 1pc,Home & Kitchen,Aarohi,1pc,127.99,18,Y
+SKU00556,Tara Shampoo 100ml,Personal Care,Tara,100ml,4.99,18,Y
+SKU00557,UrbanKart Lassi 500g,Dairy,UrbanKart,500g,0.99,5,Y
+SKU00558,Sattva Chana Dal 500g,Staples,Sattva,500g,2.99,5,Y
+SKU00559,Prakriti Non-stick Tawa Set of 6,Home & Kitchen,Prakriti,Set of 6,61.99,18,Y
+SKU00560,FreshNest Frozen Peas 200g,Frozen,FreshNest,200g,2.99,18,Y
+SKU00561,Desi Harvest Potato Chips 400g,Snacks,Desi Harvest,400g,1.99,12,Y
+SKU00562,Prakriti Infant Cereal Pack of 2,Baby Care,Prakriti,Pack of 2,4.99,12,Y
+SKU00563,HomeHero Baby Soap Medium,Baby Care,HomeHero,Medium,7.99,12,Y
+SKU00564,FreshNest Face Wash 100ml,Personal Care,FreshNest,100ml,4.99,18,Y
+SKU00565,Nimbu Potato 500g,Fresh Produce,Nimbu,500g,2.99,0,Y
+SKU00566,Desi Harvest Cream Biscuits 50g,Snacks,Desi Harvest,50g,4.99,12,Y
+SKU00567,FreshNest Green Tea 250g,Beverages,FreshNest,250g,0.99,12,Y
+SKU00568,Kisaan Gold Iodised Salt 1kg,Staples,Kisaan Gold,1kg,4.99,5,Y
+SKU00569,Kisaan Gold Hair Oil 100ml,Personal Care,Kisaan Gold,100ml,7.99,18,Y
+SKU00570,Aangan Select Soap Bar 75ml,Personal Care,Aangan Select,75ml,3.99,18,Y
+SKU00571,Aarohi Green Chilli 250g,Fresh Produce,Aarohi,250g,0.99,0,Y
+SKU00572,Tara Steel Tumbler Set of 3,Home & Kitchen,Tara,Set of 3,22.99,18,Y
+SKU00573,Desi Harvest Toilet Cleaner Pack of 6,Household,Desi Harvest,Pack of 6,2.99,18,Y
+SKU00574,Aarohi Masala Tea 100g,Beverages,Aarohi,100g,3.99,12,Y
+SKU00575,UrbanKart Buttermilk 200ml,Dairy,UrbanKart,200ml,0.99,5,Y
+SKU00576,UrbanKart Basmati Rice 1kg,Staples,UrbanKart,1kg,2.99,5,Y
+SKU00577,Kisaan Gold Green Tea 100g,Beverages,Kisaan Gold,100g,4.99,12,Y
+SKU00578,UrbanKart Spinach 250g,Fresh Produce,UrbanKart,250g,1.99,0,Y
+SKU00579,Aarohi Mosquito Repellent 500ml,Household,Aarohi,500ml,6.99,18,Y
+SKU00580,HomeHero Potato Chips 400g,Snacks,HomeHero,400g,0.99,12,Y
+SKU00581,HomeHero Lassi 200ml,Dairy,HomeHero,200ml,2.99,5,Y
+SKU00582,DailyBasket Cookies 400g,Snacks,DailyBasket,400g,4.99,12,Y
+SKU00583,Aangan Select Chocolate Bar 100g,Snacks,Aangan Select,100g,0.99,12,Y
+SKU00584,Desi Harvest Banana 1kg,Fresh Produce,Desi Harvest,1kg,0.99,0,Y
+SKU00585,Sattva Basmati Rice 5kg,Staples,Sattva,5kg,2.99,5,Y
+SKU00586,FreshNest Face Wash Pack of 4,Personal Care,FreshNest,Pack of 4,12.99,18,Y
+SKU00587,DailyBasket Onion 250g,Fresh Produce,DailyBasket,250g,2.99,0,Y
+SKU00588,Desi Harvest Paneer 500g,Dairy,Desi Harvest,500g,2.99,5,Y
+SKU00589,DailyBasket Tissue Roll 500ml,Household,DailyBasket,500ml,6.99,18,Y
+SKU00590,Kisaan Gold Infant Cereal Small,Baby Care,Kisaan Gold,Small,15.99,12,Y
+SKU00591,Prakriti Poha 500g,Staples,Prakriti,500g,1.99,5,Y
+SKU00592,Sattva Deodorant 200ml,Personal Care,Sattva,200ml,2.99,18,Y
+SKU00593,Nimbu Masala Tea 500ml,Beverages,Nimbu,500ml,0.99,12,Y
+SKU00594,DailyBasket Frozen Paratha 1L,Frozen,DailyBasket,1L,2.99,18,Y
+SKU00595,UrbanKart Toilet Cleaner 1kg,Household,UrbanKart,1kg,5.99,18,Y
+SKU00596,Desi Harvest Storage Container Set of 3,Home & Kitchen,Desi Harvest,Set of 3,5.99,18,Y
+SKU00597,Aarohi Toothpaste 75ml,Personal Care,Aarohi,75ml,11.99,18,Y
+SKU00598,HomeHero Frozen Corn 400g,Frozen,HomeHero,400g,2.99,18,Y
+SKU00599,Kisaan Gold Full Cream Milk 200ml,Dairy,Kisaan Gold,200ml,0.99,5,Y
+SKU00600,Kisaan Gold Cream Biscuits 400g,Snacks,Kisaan Gold,400g,1.99,12,Y

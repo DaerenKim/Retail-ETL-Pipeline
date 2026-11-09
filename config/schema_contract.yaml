@@ -1,0 +1,44 @@
+# Schema contract: the canonical columns every store file is mapped to.
+# Headers are normalised (trimmed, lower-cased, spaces/dashes -> "_") before alias lookup.
+# To support a new POS vendor, add its header names to the aliases below - no code change.
+
+version: 1
+columns:
+  bill_no:
+    type: text
+    required: true
+    aliases: [bill_no, billno, bill_number, invoice_id, invoice_no]
+  bill_datetime:
+    type: timestamp
+    required: true
+    aliases: [bill_datetime, bill_date, billdate, txn_ts, transaction_time]
+  store_code:
+    type: text
+    required: true
+    aliases: [store_code, storeid, store_id, outlet_code]
+  product_code:
+    type: text
+    required: true
+    aliases: [product_code, itemcode, item_code, sku]
+  quantity:
+    type: integer
+    required: true
+    aliases: [quantity, qty, units, sale_qty]
+  unit_price:
+    type: decimal
+    required: true
+    aliases: [unit_price, rate, selling_price, price]
+  discount:
+    type: decimal
+    required: false
+    default: 0
+    aliases: [discount, disc, discount_value, discount_amt]
+  net_amount:
+    type: decimal
+    required: true
+    aliases: [net_amount, amount, line_total, net_value]
+  payment_mode:
+    type: text
+    required: false
+    default: UNKNOWN
+    aliases: [payment_mode, paymode, tender_type, payment_type]

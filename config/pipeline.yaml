@@ -1,0 +1,74 @@
+# Retail ETL pipeline configuration.
+# All relative paths are resolved against the project root (the folder that contains config/).
+
+paths:
+  landing_dir: data/landing          # daily drop folders: data/landing/<arrival-date>/*.csv
+  master_dir: data/master            # stores.csv, products.csv
+  silver_dir: data/silver            # validated sales as Parquet (input to dbt)
+  log_dir: logs
+  report_dir: reports
+  schema_contract: config/schema_contract.yaml
+
+warehouse:
+  # sqlite:///<path>  or  postgresql://user:pass@host:5432/dbname
+  # The RETAIL_WAREHOUSE_URL environment variable overrides this value.
+  url: sqlite:///warehouse/retail.db
+
+stores:
+  # "master": every active store in data/master/stores.csv is expected to send a file daily.
+  # "list":   only the stores below are expected (others are still loaded if they are in the master).
+  source: master
+  list: []
+  code_prefix: GGN                   # legacy POS sends "7" -> GGN007
+  code_digits: 3
+
+# Filename -> (store, business date, version). Tried in order; the first match wins.
+file_patterns:
+  - name: pos_v3
+    regex: '^(?P<store>[A-Za-z]{3}\d{3})_(?P<date>\d{8})(?:_v(?P<version>\d+))?(?:_resend)?(?: \(\d+\))?\.csv$'
+    date_format: '%Y%m%d'
+  - name: legacy_pos
+    regex: '^sales_(?P<store>[A-Za-z]{3}\d{3})_(?P<date>\d{2}-\d{2}-\d{4})(?:_v(?P<version>\d+))?(?:_resend)?(?: \(\d+\))?\.csv$'
+    date_format: '%d-%m-%Y'
+  - name: cloud_pos
+    regex: '^(?P<store>[A-Za-z]{3}\d{3})-(?P<date>\d{4}-\d{2}-\d{2})-export(?:_v(?P<version>\d+))?(?:_resend)?(?: \(\d+\))?\.csv$'
+    date_format: '%Y-%m-%d'
+
+# Accepted bill timestamp formats, tried in order (DuckDB strptime syntax).
+# Slash dates are DD/MM (legacy POS); never guess per row.
+date_formats:
+  - '%Y-%m-%d %H:%M:%S'
+  - '%Y-%m-%dT%H:%M:%S'
+  - '%d/%m/%Y %H:%M'
+  - '%d-%b-%Y %I:%M %p'
+  - '%d-%m-%Y %H:%M'
+
+payment_mode_map:
+  cash: CASH
+  upi: UPI
+  card: CARD
+  credit_card: CARD
+  debit_card: CARD
+  wallet: WALLET
+  e-wallet: WALLET
+
+null_tokens: ['', 'NULL', 'NA', 'N/A', 'NONE', 'NAN', '-']
+
+thresholds:
+  max_quantity: 500                  # |qty| above this is INVALID_QUANTITY
+  amount_tolerance: 0.05             # USD allowed between qty*price-discount and net_amount
+  price_tolerance_pct: 1.0           # unit_price may exceed MRP by at most this %
+  date_tolerance_days: 0             # bill date must equal the file's business date
+  max_file_reject_pct: 20.0          # above this, the whole file is quarantined
+  max_run_reject_pct: 2.0            # run is flagged (WARNING) above this
+  reconciliation_tolerance_pct: 0.5
+
+schema_drift:
+  fuzzy_auto_map: true               # map an unknown header to a missing required column if similar enough
+  fuzzy_cutoff: 0.85
+
+alerts:
+  missing_consecutive_days: 2
+
+outputs:
+  write_silver_parquet: true

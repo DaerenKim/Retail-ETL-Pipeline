@@ -1,0 +1,29 @@
+# Generated data (re-create with: python generator/generate_data.py)
+data/landing/
+data/_ground_truth/
+data/silver/
+data_sample/
+
+# Pipeline outputs (reports/ IS committed: it holds the results of the reference run)
+warehouse/
+logs/
+
+# dbt
+analytics/target/
+analytics/dbt_packages/
+analytics/logs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+analytics/.user.yml
