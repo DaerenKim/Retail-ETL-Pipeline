@@ -1,0 +1,150 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.13.6, pytest-9.2.0, pluggy-1.7.0 -- ./.venv/bin/python
+cachedir: .pytest_cache
+rootdir: .
+configfile: pytest.ini
+testpaths: tests
+plugins: cov-7.1.0, anyio-4.16.0
+collecting ... collected 116 items
+
+tests/test_dashboard.py::test_dashboard_renders PASSED                   [  0%]
+tests/test_pipeline_e2e.py::test_full_run_matches_ground_truth PASSED    [  1%]
+tests/test_pipeline_e2e.py::test_rerun_is_idempotent PASSED              [  2%]
+tests/test_pipeline_e2e.py::test_file_level_events_are_handled PASSED    [  3%]
+tests/test_pipeline_e2e.py::test_reconciliation_report PASSED            [  4%]
+tests/test_pipeline_e2e.py::test_silver_parquet_matches_warehouse PASSED [  5%]
+tests/test_pipeline_e2e.py::test_daily_incremental_runs_equal_one_full_run PASSED [  6%]
+tests/test_pipeline_e2e.py::test_crash_mid_load_leaves_partition_untouched PASSED [  6%]
+tests/test_pipeline_e2e.py::test_retry_quarantined_after_adding_store PASSED [  7%]
+tests/test_pipeline_e2e.py::test_stale_v1_after_v2_is_skipped PASSED     [  8%]
+tests/test_pipeline_e2e.py::test_schema_missing_column_fails_file PASSED [  9%]
+tests/test_pipeline_e2e.py::test_postgres_warehouse_matches_ground_truth PASSED [ 10%]
+tests/test_schema.py::test_every_layout_maps_all_contract_columns[A] PASSED [ 11%]
+tests/test_schema.py::test_every_layout_maps_all_contract_columns[B] PASSED [ 12%]
+tests/test_schema.py::test_every_layout_maps_all_contract_columns[C] PASSED [ 12%]
+tests/test_schema.py::test_every_layout_maps_all_contract_columns[D] PASSED [ 13%]
+tests/test_schema.py::test_mapping_points_at_the_right_source_columns PASSED [ 14%]
+tests/test_schema.py::test_normalise_header[\ufeffBillNo-billno] PASSED  [ 15%]
+tests/test_schema.py::test_normalise_header[  BILL_NO -bill_no] PASSED   [ 16%]
+tests/test_schema.py::test_normalise_header[Sale Qty-sale_qty] PASSED    [ 17%]
+tests/test_schema.py::test_normalise_header[line-total-line_total] PASSED [ 18%]
+tests/test_schema.py::test_normalise_header[ QTY -qty] PASSED            [ 18%]
+tests/test_schema.py::test_normalise_header[net__amount-net_amount] PASSED [ 19%]
+tests/test_schema.py::test_noisy_uppercase_headers_still_map PASSED      [ 20%]
+tests/test_schema.py::test_missing_required_column_is_reported PASSED    [ 21%]
+tests/test_schema.py::test_missing_optional_column_is_fine PASSED        [ 22%]
+tests/test_schema.py::test_fuzzy_auto_map_for_renamed_column PASSED      [ 23%]
+tests/test_schema.py::test_fuzzy_auto_map_respects_cutoff_and_switch PASSED [ 24%]
+tests/test_schema.py::test_layout_signature_ignores_order_and_case_but_detects_drift PASSED [ 25%]
+tests/test_transform.py::test_clean_text_trims_and_nulls_tokens PASSED   [ 25%]
+tests/test_transform.py::test_parse_money_handles_thousands_separator_and_garbage PASSED [ 26%]
+tests/test_transform.py::test_parse_number_accepts_decimal_quantities PASSED [ 27%]
+tests/test_transform.py::test_parse_datetime_every_layout_format PASSED  [ 28%]
+tests/test_transform.py::test_parse_datetime_slash_dates_are_day_first PASSED [ 29%]
+tests/test_transform.py::test_parse_datetime_invalid_values_become_null PASSED [ 30%]
+tests/test_transform.py::test_normalise_store_code PASSED                [ 31%]
+tests/test_transform.py::test_normalise_payment PASSED                   [ 31%]
+tests/test_transform.py::test_sql_literal_escapes_quotes PASSED          [ 32%]
+tests/test_units.py::test_parse_filename[GGN005_20260901.csv-expected0] PASSED [ 33%]
+tests/test_units.py::test_parse_filename[GGN017_20260923_v2.csv-expected1] PASSED [ 34%]
+tests/test_units.py::test_parse_filename[GGN017_20260923_resend.csv-expected2] PASSED [ 35%]
+tests/test_units.py::test_parse_filename[GGN017_20260923 (1).csv-expected3] PASSED [ 36%]
+tests/test_units.py::test_parse_filename[sales_GGN014_29-09-2026.csv-expected4] PASSED [ 37%]
+tests/test_units.py::test_parse_filename[sales_GGN030_04-09-2026_v2.csv-expected5] PASSED [ 37%]
+tests/test_units.py::test_parse_filename[GGN001-2026-09-01-export.csv-expected6] PASSED [ 38%]
+tests/test_units.py::test_parse_filename[ggn001-2026-09-01-export.csv-expected7] PASSED [ 39%]
+tests/test_units.py::test_unparseable_filenames[random.csv] PASSED       [ 40%]
+tests/test_units.py::test_unparseable_filenames[GGN005_2026-09-01.csv] PASSED [ 41%]
+tests/test_units.py::test_unparseable_filenames[GGN005_20261341.csv] PASSED [ 42%]
+tests/test_units.py::test_unparseable_filenames[sales_GGN1_01-09-2026.csv] PASSED [ 43%]
+tests/test_units.py::test_discover_orders_by_arrival_folder_and_respects_until PASSED [ 43%]
+tests/test_units.py::test_sha256_identifies_content_not_name PASSED      [ 44%]
+tests/test_units.py::test_config_rejects_bad_values PASSED               [ 45%]
+tests/test_units.py::test_config_paths_resolve_against_project_root PASSED [ 46%]
+tests/test_units.py::test_missing_runs_detects_two_or_more_consecutive_days PASSED [ 47%]
+tests/test_units.py::test_missing_runs_at_window_end_and_open_date PASSED [ 48%]
+tests/test_units.py::test_missing_runs_threshold_is_configurable PASSED  [ 49%]
+tests/test_validate.py::test_clean_row_passes PASSED                     [ 50%]
+tests/test_validate.py::test_return_line_is_valid PASSED                 [ 50%]
+tests/test_validate.py::test_benign_variations_are_loaded PASSED         [ 51%]
+tests/test_validate.py::test_missing_required_field[-bill_no] PASSED     [ 52%]
+tests/test_validate.py::test_missing_required_field[-bill_date] PASSED   [ 53%]
+tests/test_validate.py::test_missing_required_field[-store_code] PASSED  [ 54%]
+tests/test_validate.py::test_missing_required_field[-product_code] PASSED [ 55%]
+tests/test_validate.py::test_missing_required_field[-qty] PASSED         [ 56%]
+tests/test_validate.py::test_missing_required_field[-unit_price] PASSED  [ 56%]
+tests/test_validate.py::test_missing_required_field[-net_amount] PASSED  [ 57%]
+tests/test_validate.py::test_missing_required_field[NULL-bill_no] PASSED [ 58%]
+tests/test_validate.py::test_missing_required_field[NULL-bill_date] PASSED [ 59%]
+tests/test_validate.py::test_missing_required_field[NULL-store_code] PASSED [ 60%]
+tests/test_validate.py::test_missing_required_field[NULL-product_code] PASSED [ 61%]
+tests/test_validate.py::test_missing_required_field[NULL-qty] PASSED     [ 62%]
+tests/test_validate.py::test_missing_required_field[NULL-unit_price] PASSED [ 62%]
+tests/test_validate.py::test_missing_required_field[NULL-net_amount] PASSED [ 63%]
+tests/test_validate.py::test_missing_required_field[NA-bill_no] PASSED   [ 64%]
+tests/test_validate.py::test_missing_required_field[NA-bill_date] PASSED [ 65%]
+tests/test_validate.py::test_missing_required_field[NA-store_code] PASSED [ 66%]
+tests/test_validate.py::test_missing_required_field[NA-product_code] PASSED [ 67%]
+tests/test_validate.py::test_missing_required_field[NA-qty] PASSED       [ 68%]
+tests/test_validate.py::test_missing_required_field[NA-unit_price] PASSED [ 68%]
+tests/test_validate.py::test_missing_required_field[NA-net_amount] PASSED [ 69%]
+tests/test_validate.py::test_blank_discount_is_zero_not_an_error PASSED  [ 70%]
+tests/test_validate.py::test_invalid_or_wrong_day_date[31-02-2026 11:15] PASSED [ 71%]
+tests/test_validate.py::test_invalid_or_wrong_day_date[##########] PASSED [ 72%]
+tests/test_validate.py::test_invalid_or_wrong_day_date[2062-09-01 10:00:00] PASSED [ 73%]
+tests/test_validate.py::test_invalid_or_wrong_day_date[2026-09-02 10:00:00] PASSED [ 74%]
+tests/test_validate.py::test_invalid_number[kw0] PASSED                  [ 75%]
+tests/test_validate.py::test_invalid_number[kw1] PASSED                  [ 75%]
+tests/test_validate.py::test_invalid_number[kw2] PASSED                  [ 76%]
+tests/test_validate.py::test_invalid_number[kw3] PASSED                  [ 77%]
+tests/test_validate.py::test_invalid_number[kw4] PASSED                  [ 78%]
+tests/test_validate.py::test_unknown_store_or_store_not_matching_filename[GGN099] PASSED [ 79%]
+tests/test_validate.py::test_unknown_store_or_store_not_matching_filename[GGN0O1] PASSED [ 80%]
+tests/test_validate.py::test_unknown_store_or_store_not_matching_filename[GN001] PASSED [ 81%]
+tests/test_validate.py::test_unknown_store_or_store_not_matching_filename[GGN007] PASSED [ 81%]
+tests/test_validate.py::test_unknown_product PASSED                      [ 82%]
+tests/test_validate.py::test_invalid_quantity[0] PASSED                  [ 83%]
+tests/test_validate.py::test_invalid_quantity[9999] PASSED               [ 84%]
+tests/test_validate.py::test_invalid_quantity[-999] PASSED               [ 85%]
+tests/test_validate.py::test_invalid_quantity[501] PASSED                [ 86%]
+tests/test_validate.py::test_invalid_price_including_above_mrp[0] PASSED [ 87%]
+tests/test_validate.py::test_invalid_price_including_above_mrp[-90.00] PASSED [ 87%]
+tests/test_validate.py::test_invalid_price_including_above_mrp[150.00] PASSED [ 88%]
+tests/test_validate.py::test_invalid_price_including_above_mrp[9000.00] PASSED [ 89%]
+tests/test_validate.py::test_price_within_mrp_tolerance_is_ok PASSED     [ 90%]
+tests/test_validate.py::test_amount_mismatch[kw0] PASSED                 [ 91%]
+tests/test_validate.py::test_amount_mismatch[kw1] PASSED                 [ 92%]
+tests/test_validate.py::test_amount_mismatch[kw2] PASSED                 [ 93%]
+tests/test_validate.py::test_amount_mismatch[kw3] PASSED                 [ 93%]
+tests/test_validate.py::test_amount_within_tolerance_is_ok PASSED        [ 94%]
+tests/test_validate.py::test_exact_duplicate_rows PASSED                 [ 95%]
+tests/test_validate.py::test_duplicate_natural_key_with_different_content PASSED [ 96%]
+tests/test_validate.py::test_copy_of_a_bad_row_is_a_duplicate_and_bad_original_does_not_block_a_valid_row PASSED [ 97%]
+tests/test_validate.py::test_rule_priority_first_failure_wins PASSED     [ 98%]
+tests/test_validate.py::test_reason_detail_is_informative PASSED         [ 99%]
+tests/test_validate.py::test_raw_record_keeps_original_values PASSED     [100%]
+
+================================ tests coverage ================================
+_______________ coverage: platform darwin, python 3.13.6-final-0 _______________
+
+Name                   Stmts   Miss  Cover   Missing
+----------------------------------------------------
+etl/__init__.py            1      0   100%
+etl/__main__.py            3      3     0%   1-5
+etl/alerts.py             58      4    93%   54, 62, 95-97
+etl/cli.py               107    107     0%   11-146
+etl/config.py             93      5    95%   53, 62, 97-98, 117
+etl/discover.py           53      4    92%   26, 56, 63-64
+etl/extract.py            23      5    78%   30-31, 33, 52-53
+etl/fingerprint.py        10      0   100%
+etl/load.py              106      4    96%   38, 153-155
+etl/logging_utils.py      43      3    93%   34-36
+etl/pipeline.py          190     13    93%   170, 195-198, 207, 218-219, 247-253
+etl/reconcile.py         112      1    99%   211
+etl/schema.py             62      1    98%   70
+etl/transform.py          35      0   100%
+etl/validate.py           15      0   100%
+etl/warehouse.py          74      0   100%
+----------------------------------------------------
+TOTAL                    985    150    85%
+============================= 116 passed in 49.18s =============================
