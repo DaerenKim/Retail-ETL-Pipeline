@@ -1,0 +1,62 @@
+version: 2
+
+models:
+  - name: stg_sales
+    description: Valid sales lines from the silver Parquet layer.
+    columns:
+      - name: store_code
+        data_tests:
+          - not_null
+          - relationships: {arguments: {to: ref('stg_stores'), field: store_code}}
+      - name: product_code
+        data_tests:
+          - not_null
+          - relationships: {arguments: {to: ref('stg_products'), field: product_code}}
+      - name: business_date
+        data_tests: [not_null]
+      - name: quantity
+        data_tests: [not_null]
+      - name: payment_mode
+        data_tests:
+          - accepted_values: {arguments: {values: ['CASH', 'UPI', 'CARD', 'WALLET', 'UNKNOWN']}}
+
+  - name: stg_stores
+    columns:
+      - name: store_code
+        data_tests: [unique, not_null]
+      - name: format
+        data_tests:
+          - accepted_values: {arguments: {values: ['Hypermarket', 'Supermarket', 'Express']}}
+
+  - name: stg_products
+    columns:
+      - name: product_code
+        data_tests: [unique, not_null]
+      - name: mrp
+        data_tests: [not_null]
+
+  - name: fct_daily_store_sales
+    description: Daily sales per store - the table the reconciliation targets are defined on.
+    columns:
+      - name: store_day_key
+        data_tests: [unique, not_null]
+      - name: net_amount
+        data_tests: [not_null]
+
+  - name: fct_daily_category_sales
+    description: Daily sales per product category.
+
+  - name: mart_store_scorecard
+    description: Per-store KPIs and peer comparison.
+    columns:
+      - name: store_code
+        data_tests: [unique, not_null]
+
+  - name: mart_payment_mix
+    description: Payment mode share by store format.
+
+  - name: mart_top_products
+    description: Product ranking by net sales.
+    columns:
+      - name: product_code
+        data_tests: [unique, not_null]
